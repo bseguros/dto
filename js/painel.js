@@ -16,7 +16,7 @@ $(document).ready(function(){
     var data;
     $.ajax({
         type: "GET",  
-        url: "https://fechine.github.io/dto/csv/dto.csv",
+        url: "https://bseguros.github.io/dto/csv/dto.csv",
         dataType: "text",       
         success: function(response){
             data = $.csv.toArrays(response);

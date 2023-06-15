@@ -1,6 +1,6 @@
 $(document).ready(function(){
     
-  var sign = window.prompt('Digite a senha','');
+  var sign = window.prompt('Digite o token de acesso','');
   var md5 = $.md5(sign);
 
   // Testa senha MD5
@@ -11,7 +11,7 @@ $(document).ready(function(){
     var data;
     $.ajax({
       type: "GET",  
-      url: "https://fechine.github.io/dto/csv/dto.csv",
+      url: "https://bseguros.github.io/dto/csv/dto.csv",
       dataType: "text",       
       success: function(response){
         data = $.csv.toArrays(response);
