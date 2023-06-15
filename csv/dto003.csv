@@ -1,0 +1,458 @@
+Nome do Projeto,Tese de Investimento?,Data da demanda,Nome do demandante,Ação,FRONT,PRODUTO,PROCESSO,IMPORTANCIA,PI#Status,Status 05/2023,CX/projetos ,CX,Data Entrada Estudo CX,Data Finalização Estudo CX,Data Prevista de Finalização CX,Time Responsável CX,Status Estudo CX,Observações CX,Projeto,Data Entrada Estudo Projeto,Data Finalização Estudo Projeto,Observações Projeto,Departamento Solicitante,Sustentação,Tipos de demandas
+Manutenção Portal Previ - Fase 2 - Atender Ponto de Auditoria - 3 Funcionalidades,Não,8-mai.,Reginaldo,Orientar defesa de tese,Portal Prev,Previdência,Pós Emissão/Implantação,,PI#10,Em desenvolvimento pelo time do Fabricio,,FALSE,5/19/2023,,,,Imersão,,FALSE,5/19/2023,5/19/2023,,Operacional ,Não,
+Extrato tipo conta corrente - fase 2 ,Não,8-mai.,Reginaldo,Orientar defesa de tese,App Previ,Previdência,Pós Emissão/Implantação,,PI#10,Em desenvolvimento pelo time do Fabricio,,FALSE,5/19/2023,5/19/2023,,,,,FALSE,,,,Operacional ,Não,
+Melhoria no Aceite Digital do Endosso no App - Vida,Não,8-mai.,Reginaldo,Orientar defesa de tese,APP Bradesco,Vida,Pós Emissão/Implantação,,PI#10,Pendente implantação,,FALSE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+Endosso de todos produtos via app Bradesco - Fase 1 (Alteração na Forma de pagamentos),Não,8-mai.,Reginaldo,Orientar defesa de tese,APP Bradesco,Vida,Pós Emissão/Implantação,,PI#10,Estudo com PO Epona,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Endosso Viva Vida  no app Bradesco - Fase 1 (Coberturas e Assitencia),Não,8-mai.,Reginaldo,Orientar defesa de tese,APP Bradesco,Vida,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,5/19/2023,5/19/2023,,,Imersão,,FALSE,,,,Operacional ,Não,
+Endosso Viva Vida no app Bradesco - Fase 1 (Alteração Cadastral),Não,8-mai.,Reginaldo,Orientar defesa de tese,APP Bradesco,Vida,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,5/19/2023,,,,Validação,,FALSE,,,,Operacional ,Não,
+Endosso e demais alterações no APP BS,Não,8-mai.,Reginaldo,Orientar defesa de tese,APP BS,Vida,,,,"Estudo PO Epona, mas falta parte de Endosso de coberturas",DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Endosso e Assinatura Digital do Empresarial Massificado para todos os produtos – Vida,Não,8-mai.,Reginaldo,Orientar defesa de tese,,Vida,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+"Alteração de beneficiários/Manutenções Cadastrais de Planos de Risco via App e IB + Melhoria no Protocolo antes x depois - Prev
+",Não,8-mai.,Reginaldo,Orientar defesa de tese,APP Bradesco,Previdência,Pós Emissão/Implantação,,PI#10,Estudo paralisado,,FALSE,,,,,,,FALSE,,,,Operacional ,Não,
+"Cancelamento de Planos de Risco via App 
+",Não,8-mai.,Reginaldo,Orientar defesa de tese,APP Bradesco,Previdência,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Cobrança Pix e baixa  Online,Não,8-mai.,Reginaldo,Orientar defesa de tese,,Vida,Implantação Individual,,,Backlog - pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+Cobrança via Pix - Fase 3 - PIS,Não,8-mai.,Reginaldo,Orientar defesa de tese,PIS,Vida,Implantação Individual,,,Backlog - pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+"Cobrança via Pix - Fase 4 - Estorno Automático - Inclusão no SISE SP da Forma de pagamento PIX a todos produtos, Massificados, AE e Prestamistas",Não,8-mai.,Reginaldo,Orientar defesa de tese,SISE SP/ SAP,Vida,Implantação Individual,,,Backlog - pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+"API Empresarial Prev – Dependência da criação do Portal Empresarial (previsto Portal para 06/2024)
+",Não,8-mai.,Reginaldo,,Portal B.S Previ,Previdência,Manutenção Empresarial,,,Backlog - pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+Permitir durante a contratação de planos de Prev no SEAP a inclusão/indicação de mais de 4 beneficiários ,Não,8-mai.,Reginaldo,,Front de Vendas,Previdência,Implantação Individual,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+Disponibilizar o ID Wall do Opin nos serviços de manutenções de beneficiários,Não,8-mai.,Reginaldo,Orientar defesa de tese,APP BS,Previdência,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+"DIALMYAPP – Interceptação de ligações as Centrais e direcionamento aos canais digitais – Vida e Prev
+",Não,8-mai.,Reginaldo,,-,Vida e Previdencia,Pós Emissão/Implantação,,imersão/ideção/validação,Backlog - pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+"Extrato de movimentação Fase 3 (melhoria jornada, botões e Grupo Bradesco time Corporate)– backlog da Célula Fidelização –Prev
+",Não,8-mai.,Reginaldo,Orientar defesa de tese,App Previ,Previdência,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+Desenvolver o processo para carga no SAP dos dados cadastrais (telefone e e-mail) Notificações de inadimplências,Não,8-mai.,Reginaldo,,Serviço Sap,Vida e Previdencia,Pós Emissão/Implantação,,,Backlog - pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+" Melhorias  Aceite Digital - Endosso:  1- Mensagem no endosso em cor azul – avaliar menos texto e ser mais objetivo no momento de selecionar “SIM” no aceite PIS  2- Revisar e-mail enviado ao cliente,– verificar com Writer  3- Performance PIS – lentidão no front PIS 4-  Ajustar fonte do e-mail para “Bradesco Sans” 5- Deixar claro ao segurado que após endosso de coberturas e valores será vigente após emissão da próxima parcela/fatura, tanto no PIS quanto no PDF",Não,8-mai.,Reginaldo,Orientar defesa de tese,PIS,Vida,Pós Emissão/Implantação,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+"Melhoria nos registros do SISE SP  X SAP para emissões de cobranças (demais parcelas) de seguros de Vida em demais bancos - Itaú, Santander e  Banco do Brasil devido ao digito verificador da agência: : Padronização nas emisssões de cobranças dos seguros de vida no campo ""agência sem o DV = Digito verificador"" quando utilizado demais bancos, aos produtos da plataforma PIS",Não,8-mai.,Reginaldo,,SISE,Vida,Pós Emissão/Implantação,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Sim,Pequenas Melhorias
+"Melhoria no processo de inclusão /alteração e Logs de Beneficiários da Previdência (FGBI e nos fronts dos Canais Digitais):  Disponibilizar um combo de opções do Grau de Parentesco (tio(a), avô(ó), enteado(a), primo(a), namorado(a), e outros tipos de relacionamentos nos logs, fronts de manutenções e API's de beneficiários, além de permitir apresentar no FGBI o % (percentual) indicado em cada canal",Não,8-mai.,Reginaldo,Orientar defesa de tese,FGBI e canais digitais,Previdência,Pós Emissão/Implantação,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+"Disponibilização dos Extratos, Demonstrativo de Movimentações e Certificados em ambiente interno da BVP conforme documentos atuais do IB e APP: Disponibilizar as funções ""Extrato"" e ""Certificado"" do canal IB e ""Demonstrativo de Movimentação"" do canal App em ambiente interno  da BVP, para matriz e funcionários terem acessos. ",Não,8-mai.,Reginaldo,Orientar defesa de tese,Canais Digitais,Previdência,Pós Emissão/Implantação,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+"Permitir emissões de relatórios detalhados do processo de Garantia de Empréstimo VGBL: Disponibilizar relatório completo sobre toda base de bloqueio, nº de proposta, nome do participante, valores, inicio, final de vigência e demais campos primordiais para o monitoramento da operação",Não,8-mai.,Reginaldo,,Relatorios,Previdência,Pós Emissão/Implantação,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+"Ampliação da idade do participante nos serviços dos canais Digitais - ATC (Alteração Data de aposentadoria): Disponibilizar alteração de ATC no IB, App e demais canais digitais para participantes com idade superior a 90 anos",Não,8-mai.,Reginaldo,Orientar defesa de tese,Canais Digitais,Previdência,Pós Emissão/Implantação,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+"Melhorias no Aceite Digital: 1-  Criar opção de recusa do Aceite Digital (P)
+2 - Fixar “Seguro de Vida” antes do nome do produto (CX)  
+3- Apresentar todas as informações, sem precisar rolar a página do portal (CX)
+4- Apresentar o status ""Proposta não aceita"" para as propostas que o cliente não concluiu o aceite (CX)
+5  - SMS : Incluir o envio de mensagem com a orientação do aceite digital através do Portal do cliente- origem PIS; (CX)
+6 - Email: Lentidão para receber os e-mails (cerca de 3 min); (P)
+7- E-mail: Incluir telefone da central; (P)
+8- E-mail: Incluir no e-mail e SMS link do site, opção aceite; (CX)
+9- PIS: Lentidão para finalizar proposta (cerca de 1 min); (P)
+10- PIS: Alterar ordenação das assistências apresentadas (subir as mais relevantes); (P)
+11- Reduzir o texto sobre o Aceite Digital na tela de cobrança (CX)
+12- BVP VIDA: Reduzir o tempo do envio do boleto após o aceite digital (P)
+13-Validar o telefone celular quanto for utilizado mais 3x em propostas de CPF's diferentes (P)
+14- Criar relatório de Aceite digital x físico  contendo todos os canais de venda ",Não,8-mai.,Reginaldo,Orientar defesa de tese,Front de Vendas,Vida,Implantação Individual,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Automatizar o fechamento diário do sistema FGBI com fechamento apenas após o cadastramento do valores das taxas ,Não,8-mai.,Reginaldo,,FGBI,Previdência,Implantação Individual,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+Automatizar a correção monetária mensal das contribuições,Não,8-mai.,Reginaldo,,FGBI,Previdência,Implantação Individual,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+Melhorar a API para não permitir aporte em proposta em processo de resgate/ou transferência interna,Não,8-mai.,Reginaldo,,Front de Vendas,Previdência,Implantação Individual,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Sim,Pequenas Melhorias
+Criação de um meio único para fechar todos os fronts de vendas para que não ocorram vendas no ultimo dia letivo do ano,Não,8-mai.,Reginaldo,,Front de Vendas,Previdência,Implantação Individual,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+Criar um e-mail recorrente de incentivo de reativação de propostas mensais,Não,8-mai.,Reginaldo,Orientar defesa de tese,FGBI,Previdência,Implantação Individual,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+Atualizar e melhorar mensagem de ATC vencida ,Não,8-mai.,Reginaldo,Orientar defesa de tese,SEAP,Previdência,Implantação Individual,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional /Gerentes,Sim,Pequenas Melhorias
+Travar o campo de alteração de dados de pagamento digitados anteriormente. ,Não,8-mai.,Reginaldo,,SEAP,Previdência,Implantação Individual,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Sim,Pequenas Melhorias
+Incluir mais POP-Ups instrutivos para evitar contratações com dados incorretos,Não,8-mai.,Reginaldo,Orientar defesa de tese,SEAP,Previdência,Implantação Individual,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+Realizar a atualização automática   das propostas quando  ultrapassam de 15 dias em análise de subscrição e TI ,Não,8-mai.,Reginaldo,,Front de Vendas,Vida,Implantação Individual,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Sim,Pequenas Melhorias
+Permitir o reenvio automático da cobrança em caso de instabilidade para que o corretor não perca a venda,Não,8-mai.,Reginaldo,,Front de Vendas/SAP,Vida,Implantação Individual,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Sim,Pequenas Melhorias
+Realizar a atualização de liberação de comissão de forma automática logo após a emissão da proposta  para os casos em que ocorrem instabilidade no Sistema Vida (tela preta),Não,8-mai.,Reginaldo,,Front de Vendas/Sistema VIDA,Vida,Implantação Individual,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+Melhorar mensageria do sistema quando ocorrer rejeições de diferença de prêmio ,Não,8-mai.,Reginaldo,Orientar defesa de tese,Front de Vendas/SISE/Acompanhamento de Propostas,Vida,Implantação Individual,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+"Melhorias PEP: 
+1- Atualizar  semanalmente a base PEP (padrão PREV) (P)
+2- Adequações BVP VIDA (data invertida e Telefone complementar) (P)
+3- Relatório gerencial PEP (P)",Não,8-mai.,Reginaldo,,Front de Vendas/SISE,Vida,Implantação Individual,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Sim,Pequenas Melhorias
+Automatizar geração  e unificação dos relatórios do baú de CCBS,Não,8-mai.,Reginaldo,,SISE/Acompanhamento de propostas/PIS/SAP,Vida,Implantação Individual,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+ Criar log de proposta para as emissões online no SISE SP.,Não,8-mai.,Reginaldo,,SISE,Vida,Implantação Individual,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Sim,Pequenas Melhorias
+"Inserir senha no PDF da proposta Vida enviado aos segurados, assim como é feito no processo de previdência",Não,8-mai.,Reginaldo,,Front de Vendas,Vida,Implantação Individual,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,tem formulário,Sim,Pequenas Melhorias
+ Não permitir a emissão da proposta quando  estiver estornada ou em processo de estorno da 1ª parcela ,Não,8-mai.,Reginaldo,,SISE/SAP/GCI/PIS E Acompanhamento de Propostas,Vida,Implantação Individual,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,tem formulário,Sim,Pequenas Melhorias
+Disponibilização de jornada para alteração de formas de pagamentos via WhatsApp (Débito Automático),Não,8-mai.,Reginaldo,Orientar defesa de tese,Whatsapp Vida,Vida,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Disponibilização de jornada para alteração de formas de pagamentos via WhatsApp (Débito Automático),Não,8-mai.,Reginaldo,Orientar defesa de tese,Whatsapp Previ,Previdência,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Disponibilização de carta e certificado do seguro viagem,Não,8-mai.,Reginaldo,Orientar defesa de tese,App Seg Viagem,Seguro Viagem,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Notificações de manutenções ,Não,8-mai.,Reginaldo,,SMS,Vida,Pós Emissão/Implantação,,,Estudo concluido PI#8,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+Notificações de manutenções,Não,8-mai.,Reginaldo,,SMS,Previdência,Pós Emissão/Implantação,,,Estudo concluido PI#8,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+Criar Api e Fronts para Readmissão - Vida (autosserviços),Não,8-mai.,Reginaldo,Orientar defesa de tese,,Vida,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Criar Api e Fronts para Readmissão - Prev (autosserviços),Não,8-mai.,Reginaldo,Orientar defesa de tese,,Previdência,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Automatizar o Cancelamento Vida- AP Premiável – BDN/ATM (Caixa eletrônico),Não,8-mai.,Reginaldo,Orientar defesa de tese,,Vida,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Criação de canal unificado para manutenções - Vida,Tese de Investimento,8-mai.,Reginaldo,Orientar defesa de tese,,Vida,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,Grandes Assuntos
+Criação de canal unificado para manutenções - Previ,Tese de Investimento,8-mai.,Reginaldo,Orientar defesa de tese,,Previdência,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,Grandes Assuntos
+Disponibilização  dos certificados  Kirton nos canais digitais - Vida e Prev,Não,8-mai.,Reginaldo,Orientar defesa de tese,APP/IB,Vida e Previdencia,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Demonstrativo de risco – Empresarial Prev,Não,8-mai.,Reginaldo,Orientar defesa de tese,,Previdência,Manutenção Empresarial,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Disponibilizar a validação por biometria facial dos serviços no Portal BS,Não,8-mai.,Reginaldo,Orientar defesa de tese,Portal Prev,Previdência,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Disponibilizar a validação por biometria facial dos serviços no Portal Vida - PIVI,Não,8-mai.,Reginaldo,Orientar defesa de tese,Portal Pivi,Previdência,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Disponibilizar o ID Wall do Opin nos serviços de vendas/manutenções,Não,8-mai.,Reginaldo,Orientar defesa de tese,Portal BS,Vida e Previdencia,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+"Consultar e realizar manutenções atraves do acesso por CPF do titular do plano, nos casos que a conta possuem mais de uma titularidade ",Não,8-mai.,Reginaldo,Orientar defesa de tese,APP/IB,Previdência,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Restringir a função “editar beneficiários” para a lista de produtos prestamistas,Não,8-mai.,Reginaldo,,APP/IB,Vida,Pós Emissão/Implantação,,PI#10,Sob estudo do time de projetos,,FALSE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+Disponibilizar os certificados na Carteira digital - Apple Wallet/ Samsung/Android (origem Osmar Sales e André Motta),Não,8-mai.,Reginaldo,Orientar defesa de tese,App Vida,Vida,Pós Emissão/Implantação,,,Backlog - pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Reativação de seguros de vida com e sem CCB - (com Reenvio de cobranças via SAP e RO) - SISE SP,Não,8-mai.,Reginaldo,,SISE,Vida,Pós Emissão/Implantação,,,Sob avaliação do time de projetos - Godinho,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+"Disponibilizar um Painel com relatórios dos seguros efetivados os cancelamentos por inadimplência Vida - pós PPMC 72284: Melhoria no relatório de apólices efetivamente canceladas por inadimplência, complementando relatório com os campos: data de emissão do seguro, tempo de permanência da apólice ativa, qtde de parcelas pendentes por janelas e criação de um Painel completo para visão gerencial (forma de pagamento, frequencia de pagamento: Mensal, trimestral, semestral).",Não,8-mai.,Reginaldo,,Relatorios,Vida,Pós Emissão/Implantação,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+"Otimização do processo de redução de contribuição (Proposta em Manutenção): Permitir demais manutenções mesmo após o participante ter realizado a redução de contribuição- Objetivo é não ""travar"" a proposta do cliente para outras operações, dentro das possibilidades e sem afetar outras operações da BVP",Não,8-mai.,Reginaldo,Orientar defesa de tese,Canais Digitais,Previdência,Pós Emissão/Implantação,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Apresentar para o cliente a soma da nova contribuição mensal na contratação do aporte,Não,8-mai.,Reginaldo,Orientar defesa de tese,APP e IB Bradesco,Previdência,Implantação Individual,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+bloqueio de consulta de extrato por proposta ,Não,8-mai.,Reginaldo,,FGBI,Previdência,Implantação Individual,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Sim,Pequenas Melhorias
+Manter preenchido os beneficiários que já foram incluidos anteriormente. ,Não,8-mai.,Reginaldo,Orientar defesa de tese,Front de Vendas,Previdência,Implantação Individual,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+Criar campo de Status atuais das propostas nos canais,Não,8-mai.,Reginaldo,Orientar defesa de tese,APP e IB Bradesco,Previdência,Implantação Individual,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Gerar  numeração de proposta na tela de contratão,Não,8-mai.,Reginaldo,Orientar defesa de tese,Front de Vendas,Previdência,Implantação Individual,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Incluir informação no campo beneficarios de que não é necessário ou é isento de inventário. ,Não,8-mai.,Reginaldo,Orientar defesa de tese,Canais Digitais,Previdência,Implantação Individual,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+Gerar Boleto único para contratações de carteira recomendade ou varios fundos,Não,8-mai.,Reginaldo,,Front de Vendas,Previdência,Implantação Individual,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+Criar opção de debitos agendados,Não,8-mai.,Reginaldo,Orientar defesa de tese,Canais Digitais,Previdência,Implantação Individual,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Melhorar o fluxo do cancelamento 7 dias e incluir aportes,Não,8-mai.,Reginaldo,Orientar defesa de tese,Canais Digitais,Previdência,Implantação Individual,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Disponibilizar o extrato do participante na ferramenta SEAP,Não,8-mai.,Reginaldo,Orientar defesa de tese,SEAP,Previdência,Implantação Individual,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Melhorias PSVP e Altamira: 1 - geração de documento demonstrativo de contribuições de risco ,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Front de Vendas,Previdência,Manutenção Empresarial,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+"Melhorias emissão 2° via de boleto: 1 - opção de incluir o codigo de barras na pesquisa do boleto, e o site retornar com boleto atualizado. ",Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Front de Vendas,Previdência,Manutenção Empresarial,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Melhorias PSVP e Altamira: 1 - Geração de extratos de plano já cancelados por qualquer motivo ou habilitados renda até o momento da habilitação ,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Front de Vendas,Previdência,Manutenção Empresarial,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+"Melhorias no Front de Vendas: 
+1- na tela de dados de cobrança ao carregar o valor do seguro, automaticamento deve preencher o valor da autenticação da CCB.    (CX)
+2 - a data de autenticação Mecanica deve ser preenchida automaticamente conforme data inserida na aba do estipulante  (P)",Não,8-mai.,Reginaldo,,Front de Vendas,Vida,Implantação Empresarial,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Melhorias no Front de Vendas: 1 - Apresentar bloqueio de ''Não há oferta disponível para esse cliente '' somente em casos que o CPF e CNPJ possuam grau 5 ou os codigos abaixo 082 - 095 - 254 - 259 - 260 - 268 282 - 297 - 298 - 313 - 348 - 364 - 365 - 646 - 649.,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Front de Vendas,Vida,Implantação Empresarial,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Melhorias no Front de Vendas: 1 - No front de vendas ao escolher o produto SUPERVIDA PJ e inserir o CPF automaticamente o front de vendas deve realizar uma consulta e apresentar o valor/limite disponivel de premio para contratação. ,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Front de Vendas,Vida,Implantação Empresarial,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Melhorias no SISE - SP / VPRS: 1- ao recursar uma proposta operacional no VPRS a mesma deve apresentar o status de recusada no SISE e não pendente.,Não,8-mai.,Reginaldo,,Front de Vendas,Vida,Implantação Empresarial,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+Tornar o SEAP responsivo (web e mobile),Tese de Investimento,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP ,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,Grandes Assuntos
+Melhorar a performance do SEAP em questão de lentidão ,Não,8-mai.,Reginaldo,,SEAP ,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,Encaminhar para TI,Operacional ,,Lentidão Sistema
+Carregar link para  direcionar para site  externo na mensagem  parametrizada do  banner,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+Permitir alterar  imagens do  banner (painel de clientes) na tela do  parâmetros,Não,8-mai.,Reginaldo,,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Sim,Pequenas Melhorias
+Automatizar a Transição do  banner no painel de clientes,Não,8-mai.,Reginaldo,,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Sim,Pequenas Melhorias
+Revisar  teclas de  atalho,Não,8-mai.,Reginaldo,,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Sim,Pequenas Melhorias
+Revisar alerta  de  inconsistências,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+Inserir auxílio para  termos técnicos  (jornada e lâminas),Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+Revisar jornadas  para tornar o Seap  mais intuitivo,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Incluir na ferramenta SEAP  Individual a realização dos  estornos com aceite do  participante,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Disponibilizar  extratos e  certificados no SEAP Individual,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Retirar botão de finalizar  proposta  (Upload),Não,8-mai.,Reginaldo,,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Sim,Pequenas Melhorias
+Adicionar validação  no campo celular no SEAP para não  permitir a repetição  de mais 5 digitos  iguais,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+Incluir todos os  tipos de status no  menu de  Acompanhamento  de Proposta do painel de controle,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Criar tela para  edição do FAQ no  Painel de Clientes,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Ajustar na area do cliente no Saldo  Global PGBL/VGBL -  VIP e CAB,Não,8-mai.,Reginaldo,,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+Fornecer apoio para  oferta e atendimento  (com relação aos  produtos),Tese de Investimento,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,Grandes Assuntos
+Fornecer um canal  de suporte para  dúvidas com relação às jornadas do SEAP,Tese de Investimento,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,Grandes Assuntos
+Revisar o  questionário  dos 7 passos,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+"Personalizar acessos dos usuários por  segmento (Varejo,  Prime e Private)",Tese de Investimento,8-mai.,Reginaldo,,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,Grandes Assuntos
+Estudo para  melhoria ou  remoção da  carteira  recomendada,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Aumentar  tamanho do  QR na  proposta,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+Desenvolver  histórico de  movimentação do  cliente - area cliente,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Remover  obrigatoriedade de  data de vencimento  mensal para plano  único,Não,8-mai.,Reginaldo,,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Sim,Pequenas Melhorias
+Melhorar tela de  manutenção/  consulta de  proposta,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Incluir período  de carência na  grade de fundos,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Sim,Pequenas Melhorias
+Apresentar fundos  mais rentáveis na  ordenação inicial da  grade de fundos,Não,8-mai.,Reginaldo,,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+Filtrar clientes com  fundos menos  rentáveis (atraves da pesquisa de fundos),Não,8-mai.,Reginaldo,,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Não,
+Estudo de reestruturação  da grade de fundos  (melhoria no layout e  navegação),Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Barrar aporte em  proposta que não  está mais ativa  (Regra ATC),Não,8-mai.,Reginaldo,,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Sim,Pequenas Melhorias
+Consulta do risco  (listar os riscos  contratados para  o cliente),Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Aceite único para carteira  recomendada ou adesão a mais de um fundo no  mesmo dia,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Jornada  de Risco  apartada,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO CX,TRUE,,,,,,,FALSE,,,,Operacional ,Não,
+Idade de ingresso  não permitida -  incluir validação  no carrinho,Não,8-mai.,Reginaldo,,SEAP,Previdência,Implantação Individual,,,estava no Backlog Vila Gerente- pendente,DTO Projetos,FALSE,,,,,,,TRUE,,,,Operacional ,Sim,Pequenas Melhorias
+Bloqueios Judiciais ,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP Individual,Previdência,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Gerentes,Não,
+"Validação do Grau de risco e restrições no LINK, SEAP Ind. SeAP Empresarial",Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,"SEAP Individual
+SEAP Empresarial",Previdência,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Gerentes,Não,
+Analisar se o sistema é lento ou se é problema de rede nas agências,Não,8-mai.,Reginaldo,,SEAP Individual,Previdência,,,,,,FALSE,,,,,,,FALSE,,,,Gerentes,Sim,Pequenas Melhorias
+"[Painel do cliente]
+Incluir fundos em destaque no painel de clientes ao lado do CDI e IBOV",Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP Individual,Previdência,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Gerentes,Não,
+"Na inscrição ao preencher a agencia e conta de débito, trazer o nome dp titulas da proposta origem ",Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP Individual,Previdência,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Gerentes,Sim,Pequenas Melhorias
+Incluir proposta de transferência interna na jornada do aceite digital,Não,8-mai.,Reginaldo,,SEAP Individual,Previdência,,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Gerentes,Não,
+Desenvolver nova área do cliente,Tese de Investimento,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP Individual,Previdência,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Gerentes,Não,Grandes Assuntos
+Avaliar a solução para quando o nome do proponente está divergente na receita (sugestão criar mais de uma msg de validação) para chamar atenção do gerente,Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP Individual,Previdência,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Gerentes,Não,
+Destacar alerta de contribuição mensal (reduzir quantidade de estorno de proposta),Não,8-mai.,Reginaldo,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SEAP Individual,Previdência,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Gerentes,Sim,Pequenas Melhorias
+"Tese de Investimento para possibilitar a contratação de produto Vida no Portal de Front de Comercialização de Produtos Integrado com o Portal de Negócios
+
+Apresentação Portal de Negócios - Thais ",Não,18-mai.,Thais,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,
+Renovação Capitalização - Seguro Prestamista,Não,17-mai.,Maria Angela,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,SISE,Prestamista Coletivo,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Formulário,Não,
+Concessão de crédito com garantia de VGBL,Não,19-mai.,,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,,,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Executivo,Não,
+Nova jornada Vida Viva,Tese de Investimento,5-mai.,Motta,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,,Não,Grandes Assuntos
+Educacional Vida Puro,Tese de Investimento,5-mai.,Motta,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,,Não,Grandes Assuntos
+Empresarial Escalonado múltiplo e uniforme (dois produtos),Tese de Investimento,5-mai.,Motta,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,,Não,Grandes Assuntos
+Nova jornada resgatáveis,Tese de Investimento,5-mai.,Motta,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,Grandes Assuntos
+Contratação Vida na Agência,Tese de Investimento,5-mai.,Motta,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,Grandes Assuntos
+Painel de Gestão da Carteira do Corretor,Tese de Investimento,5-mai.,Motta,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,Grandes Assuntos
+Endosso de beneficiários e dados cadastrais do segurado - Vida,Não,5-mai.,Motta,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,
+Régua de relacionamento,Não,5-mai.,Motta,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,Encaminhar para CRM,Corretor Vida ,Não,Comunicação 
+Card de acompanhamento de Apólices a Renovar  ou aniversário- Vida,Não,5-mai.,Motta,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,
+Simulador de Resgate,Não,5-mai.,Motta,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,
+NPS - Para implantação de pesquisa no aceite digital,Não,5-mai.,Motta,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,
+Comissão do Corretor de forma transparente na cotação,Não,5-mai.,Thais Cardoso,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,
+Padronização das formas de pagamento,Não,5-mai.,Thais Cardoso,,Portal de Negócio,Vida,,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Corretor Vida ,Não,
+Armazenamento de cotação,Não,5-mai.,Thais Cardoso,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,
+Padronização de Documentos,Não,5-mai.,Thais Cardoso,,Portal de Negócio,Vida,,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Corretor Vida ,Não,
+Automatização de Dados do Corretor,Não,5-mai.,Thais Cardoso,,Portal de Negócio,Vida,,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Corretor Vida ,Não,
+Automatização de Dados de Pagamento,Não,5-mai.,Thais Cardoso,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,
+Subscrição clara e transparente na jornada de contratação,Não,5-mai.,Thais Cardoso,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,
+Card de propostas,Não,5-mai.,Thais Cardoso,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,
+Chat de Emissão,Tese de Investimento,5-mai.,Thais Cardoso,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,Grandes Assuntos
+Abertura de Demandas (Chamados) via Portal,Tese de Investimento,5-mai.,Thais Cardoso,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,Grandes Assuntos
+"Endosso: Alteração Cadastral, Alteração de Pagamento, Alteração de Coberturas/Valores e Cancelamento",Não,5-mai.,Thais Cardoso,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,
+Card e acompanhamento de Parcelas em atraso x comando de aviso direto com o cliente,Não,5-mai.,Thais Cardoso,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,
+2ª via de boleto,Não,5-mai.,Thais Cardoso,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,
+Simulação / Resgate / Acompanhamento ,Não,5-mai.,Thais Cardoso,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,
+Chat de Sinistro,Tese de Investimento,5-mai.,Thais Cardoso,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,Grandes Assuntos
+Visão 360 de oportunidades do cliente BS como cross x up sell,Tese de Investimento,5-mai.,Thais Cardoso,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Corretor Vida ,Não,Grandes Assuntos
+Ajustes Superprotegido ,Não,4-abr.,Neiva,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,APP/IB,Prestamista,,,,,DTO CX,TRUE,,,,Time Cross,,Estudo em andamento pelo time DTO (Felipe),FALSE,,,,,Não,
+GT - Planos Tradicionais ,Não,25-abr.,Reginaldo,"Estimativa tecnica finalizada em 19/05, enviei para gestores",Tela Preta,Previdência,,,,,,FALSE,,,,,,Estudo em andamento pelo time DTO (Jean),FALSE,,,,,Não,
+PREV - Jornada e Desenvolvimento de Resgate Previdência Individual do Altamira,Não,3-mai.,Marcelo Porto,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,APP/IB,Previdência,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Emilia,Não,
+PREV - Apresentar as propostas de prev individual (produtos Altamita) para que a Central de Atendimento possa incluir a solicitação de resgate,Não,3-mai.,Marcelo Porto,,Altamira,Previdência,,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Emilia,Não,
+PREV - Automatização da nova Jornada de resgate de Prev Corporate (Altamira),Não,3-mai.,Marcelo Porto,,Altamira,Previdência,,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Emilia,Não,
+VIDA - Liberar pelo PEGA os resgates pendentes após validação da conta corrente recém aberta,Não,3-mai.,Marcelo Porto,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Pega,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Emilia,,
+VIDA - Revisão da jornada de resgate no IB (incluir valores em tela),Não,3-mai.,Marcelo Porto,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,IB,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Emilia,,
+PREV - Revisão da jornada de resgate no IB,Não,3-mai.,Marcelo Porto,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,IB,Previdência,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Emilia,,
+PREV - Revisão de Jornada para inclusão da forma de pagamento PIX,Não,3-mai.,Marcelo Porto,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,,Previdência,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Emilia,,
+VIDA - Criação forma de pagamento de resgate via PIX,Não,3-mai.,Marcelo Porto,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Emilia,,
+VIDA - Incluir na Jornada de resgate do APP Banco a Biometria Facial para validação da c/c recém aberta (Idwall),Não,3-mai.,Marcelo Porto,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,APP Banco,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Emilia,,
+PREV - Jornada de resgate com Biometria Facial (Idwall) - site,Não,3-mai.,Marcelo Porto,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,IB,Previdência,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Emilia,,
+PREV - Jornada de resgate com Biometria Facial (Idwall) - BSC,Não,3-mai.,Marcelo Porto,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,BSC,Previdência,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Emilia,,
+VIDA - Cancelamento de solicitação de resgate no mesmo dia,Não,3-mai.,Marcelo Porto,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Emilia,,
+VIDA - Disponibilizar protocolo de resgate e cancelamento – Sala Seguros,Não,3-mai.,Marcelo Porto,,,Vida,,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Emilia,,
+VIDA - Permitir parametrização de valores / quantidade de dias para validação de conta Bradesco recém aberta,Não,3-mai.,Marcelo Porto,,PEGA,Vida,,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Emilia,,
+Cobrança de prêmio após resgate ou cancelamento,Não,3-mai.,Marcelo Porto,,,Vida,,,,,,FALSE,,,,,,,FALSE,,,,Emilia,Não,
+Parcerias Volvo ,Não,,Neiva,,,Prestamista,,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,,Não,
+Pagamento Automatizado para Assessorias/Grupos Especiais – Prev,Não,18-mai.,Thais Cardoso,Enviei para projetos em 18/05,,Previdência,,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Thais ,Não,
+Menu Desejo,Tese de Investimento,11-mai.,Thais Cardoso,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Thais ,Não,Grandes Assuntos
+Macroclasse,Não,3-mai.,Aneliza Rugoni,"Com time de Projetos, Em análise Tecnica",APP Ágora,Previdência,,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,Bradesco Private Bank | Wealth Management,Não,
+Aprovação de proposta de plano de Previdência Privada ,Não,19-mai.,Ronaldo de Sando,Enviei para Time de Projetos ,APP Banco/IB/APP BSC,Previdência,,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,DGOPR - DEP. GESTÃO OPERACIONAL DE PRODUTOS DE REDE  ,Não,
+Migração automática de seguros de vida,Não,16-mai.,Henrique da Silva,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,WhatsApp Vida,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Desenvolvimento de Mercado e Novos Negócios,Não,
+Parcerias Agora,Não,27-abr.,Fabio Souza,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,Portal de Negócio,Previdência,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Produtos Digitais Produtos Financeiros,Não,
+Circular 612 | Cadastro de Clientes Segurados,sim,5/16/2023,Ana Flavia,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,,,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Consultoria e Demanda Regulatória ,Não,
+Disponibilização dos serviços da BVP para que plugue no PEGA da Central,Não,5/19/2023,OSMAR SALES OLIVEIRA,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,,,,,,,,FALSE,,,,,,,FALSE,,,,,Não,
+Vida Viva Mobile,Não,5/15/2023,MANOELA CRISTINA DA CONCEICAO SILVA ,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,APP BSC,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,,Não,
+Prestamista ,Sim,5/15/2023,Neiva ,Agendei reunião para falar com Osmar no dia 23,,Prestamista,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,,Não,
+Alteração Layout CAP. Vida e Previdência. (PPMC 80977 e 81035),Não,5/16/2023,Reginaldo Ferraz,"Possui PPMC, pedi para Josie verificar.",,Vida e Prestamista,,,,,,FALSE,,,,,,,FALSE,,,,,Não,
+Welcome Kit Vida ,Sim,5/16/2023,Leonardo Vianna Reis / Épona Garrido de Souza ,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,APP Banco/IB/APP BSC/Portal Cliente Vida/Portal Cliente Prev,Vida,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Comunicação e Relacionamento ,Não,
+Exibição/consulta das informações de risco atreladas à planos de acumulação (NPS),não,3/9/2023,Henrique Pina ,Agendar prévia de reunião de priorização e instruir defesa de tese de investimento,,Previdência,,,,,DTO CX,TRUE,,,,,,,FALSE,,,,Produtos Previdência,Não,
+Jornada de contratação | Portal Não Correntista,,,Henrique Pina ,FInalizado,Portal Não Correntista,Previdência,,,,,DTO CX,TRUE,,,,Contratação Previdência ,,,FALSE,,,,,Não,
+Reestruturação jornada aporte |Portal Não Correntista,,,Henrique Pina ,Finalizado,Portal Não Correntista,Previdência,,,,,DTO CX,TRUE,,,,Contratação Previdência ,,,FALSE,,,,,Não,
+PI#7|SP4|E|Portabilidade Externa de Entrada - App Banco,Não,,Henrique Pina ,Estudo em andamento,APP Banco,Previdência,,,,,DTO CX,TRUE,,,,Contratação Previdência ,,,FALSE,,,,,Não,
+PI#10|SP4|E|Portabilidade Externa de Entrada - Operacional (Site Gestor),Não,,Henrique Pina,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,17-abr.,,26-mai.,Contratação Previdência ,,,FALSE,,,,,Não,
+PI#10|SP4|E|Jornada de Contratação Prev com Objetivo,Não,,Henrique Pina,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,17-abr.,,18-jul.,Contratação Previdência ,,,FALSE,,,,,Não,
+PI#10|SP4|E|Epico tecnico para criar conceito de objetivo,Não,,Henrique Pina,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,17-abr.,,18-jul.,Contratação Previdência ,,,FALSE,,,,,Não,
+Portabilidade externa de entrada | Internet Banking,,,Henrique Pina,Não Priorizado,IB,Previdência,,,,,DTO CX,TRUE,,,,Contratação Previdência ,,,FALSE,,,,,Não,
+PI#10|SP4|E| Endosso do Empresarial Flexível - Capital Global,Não,,André Motta,Estudo em andamento,,Vida,,,,,DTO CX,TRUE,17-abr.,,18-jul.,Contratação Vida,,,FALSE,,,,,Não,
+PI#10|SP4|E| - Adaptação do Aceite Digital para o Seguro Viagem no BVP,Não,,André Motta,Estudo em andamento,,Vida,,,,,DTO CX,TRUE,17-abr.,,18-jul.,Contratação Vida,,,FALSE,,,,,Não,
+"Melhorar as mensagens de erro (botao ""Abrir"") | BVP Vida",,,André Motta,Não Priorizado,,Vida,,,,,DTO CX,TRUE,,,,Contratação Vida,,,FALSE,,,,,Sim,Pequenas Melhorias
+Possibilitar a consulta/extração por mensagem de falha | BVP Vida,,,André Motta,Não Priorizado,,Vida,,,,,DTO CX,TRUE,,,,Contratação Vida,,,FALSE,,,,,Sim,Pequenas Melhorias
+Manutenções de propostas individuais (autofaturamento),Não,,Fabiano Balbina,Estudo em andamento,Site Corporate,Previdência,,,,,DTO CX,TRUE,,,,Corporate Prev,,,FALSE,,,,,Não,
+Estudo Adesão Digital 2.0,Não,,Fabiano Balbina,Estudo em andamento,Site Corporate,Previdência,,,,,DTO CX,TRUE,,,,Corporate Prev,,,FALSE,,,,,Não,
+Alteração de fundo,Não,,Fabiano Balbina,Estudo em andamento,Site Corporate,Previdência,,,,,DTO CX,TRUE,,,,Corporate Prev,,,FALSE,,,,,Sim,Pequenas Melhorias
+Tagueamento de Menu de Serviços .asp,Não,,Fabiano Balbina,Estudo em andamento,Site Corporate,Previdência,,,,,DTO CX,TRUE,,,,Corporate Prev,,,FALSE,,,,,Sim,Pequenas Melhorias
+Tagueamento do Novo menu de Serviços,Não,,Fabiano Balbina,Estudo em andamento,Site Corporate,Previdência,,,,,DTO CX,TRUE,,,,Corporate Prev,,,FALSE,,,,,Sim,Pequenas Melhorias
+distribuição da contribuição da previdência corporativa em multifundos,,,Fabiano Balbina,Não Priorizado,,Previdência,,,,,DTO CX,TRUE,,,,Corporate Prev,,,FALSE,,,,,Não,
+Novo Menu de Serviços site Corporate,,,Fabiano Balbina,Não Priorizado,Site Corporate,Previdência,,,,,DTO CX,TRUE,,,,Corporate Prev,,,FALSE,,,,,Não,
+hierarquia de perfis novo site Corporate,,,Fabiano Balbina,Não Priorizado,Site COrporate,Previdência,,,,,DTO CX,TRUE,,,,Corporate Prev,,,FALSE,,,,,Não,
+Central de notificações envolvendo as notificações do Consulta de Documentos e Faturas,,,Fabiano Balbina,Não Priorizado,,Previdência,,,,,DTO CX,TRUE,,,,Corporate Prev,,,FALSE,,,,,Não,
+alteração de produto e regime da proposta de previdência do participante,,,Fabiano Balbina,Não Priorizado,,Previdência,,,,,DTO CX,TRUE,,,,Corporate Prev,,,FALSE,,,,,Não,
+central de vídeos e imagens para não necessitarmos mais de RDM para subir alterações desse tipo no site,,,Fabiano Balbina,Não Priorizado,,Previdência,,,,,DTO CX,TRUE,,,,Corporate Prev,,,FALSE,,,,,Não,
+Discovery NPS System,,,Fabiano Balbina,Não Priorizado,,Previdência,,,,,DTO CX,TRUE,,,,Corporate Prev,,,FALSE,,,,,Não,
+Jornada de Serviços Aceite Digital para Apólices Especificas,Não,,Thelma Chab,Estudo em andamento,,Vida,,,,,DTO CX,TRUE,,,,Corporate Vida,,,FALSE,,,,,Não,
+Acompanhamento de proposta de adesão,Não,,Thelma Chab,Estudo em andamento,,Vida,,,,,DTO CX,TRUE,,,,Corporate Vida,,,FALSE,,,,,Não,
+Disponibilizar Anuencia 3/4 no Mobile (APPBSC),Não,,Thelma Chab,Estudo em andamento,,Vida,,,,,DTO CX,TRUE,,,,Corporate Vida,,,FALSE,,,,,Não,
+Exposição do CA GATWAY: Manutenção dos segurados,Não,,Thelma Chab,Estudo em andamento,,Vida,,,,,DTO CX,TRUE,,,,Corporate Vida,,,FALSE,,,,,Não,
+Exposição do API de proponente,Não,,Thelma Chab,Estudo em andamento,,Vida,,,,,DTO CX,TRUE,,,,Corporate Vida,,,FALSE,,,,,Não,
+Desafio 10 - Menu e páginas de funcionalidades mais intuitivos,Não,,Henrique Pina,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,27-abr.,18-mai.,,Desafio 10,,,FALSE,,,,,Não,Pedido Executivo
+Desafio 10 - Aceite de transferência interna pelo cliente não correntista,Não,,Henrique Pina,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,27-abr.,,13-jun.,Desafio 10,,,FALSE,,,,,Não,Pedido Executivo
+Desafio 10 - Resgate autosserviço pelo não correntista,Não,,Henrique Pina,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,27-abr.,,25-mai.,Desafio 10,,,FALSE,,,,,Não,Pedido Executivo
+Desafio 10 - Manutenção de beneficiários autosserviço pelo não correntista,Não,,Henrique Pina,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,27-abr.,,25-mai.,Desafio 10,,,FALSE,,,,,Não,Pedido Executivo
+Desafio 10 - Cancelamento 7 dias para não-correntista no Portal Institucional,Não,,Henrique Pina,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,27-abr.,,25-mai.,Desafio 10,,,FALSE,,,,,Não,Pedido Executivo
+Desafio 10 - Inserir QR code PIX no PDF na proposta aceita,Não,,Henrique Pina,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,27-abr.,,25-mai.,Desafio 10,,,FALSE,,,,,Não,Pedido Executivo
+Desafio 10 - Transferência interna pelo corretor (1:1),Não,,Henrique Pina,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,27-abr.,,18-mai.,Desafio 10,,,FALSE,,,,,Não,Pedido Executivo
+Desafio 10 - Possibilitar a segmentação de condições e produtos a serem distribuídos por parceiros,Não,,Henrique Pina,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,27-abr.,,2-jun.,Desafio 10,,,FALSE,,,,,Não,Pedido Executivo
+Plataforma de gerenciamento de terceiros,Não,,Neiva,Estudo em andamento,,Prestamista,,,,,DTO CX,TRUE,,19-mai.,,DTO,,,FALSE,,,,,Não,
+Ajustes SuperProtegido,Não,16/05/2023,Neiva,Estudo em andamento,,Prestamista,,,,,DTO CX,TRUE,,17-mai.,,DTO,,,FALSE,,,,,Não,
+Whatsapp - Venda de Seguro de VIda,Não,,Ivo Lisboa,Estudo em andamento,,,,,,,DTO CX,TRUE,,,,DTO,,,FALSE,,,,,Não,
+IDD - Identidade Digital Descentralizada | Levantamento de jornadas BVP,Não,,Corporativo,Estudo em andamento,,,,,,,DTO CX,TRUE,,,,DTO,,,FALSE,,,,,Não,
+OPIN Fase II - Workshop de Oportunidades,Não,,Corporativo,Estudo em andamento,,,,,,,DTO CX,TRUE,,,,DTO,,,FALSE,,,,,Não,
+Laminas de Rentabilidade Corporate,Não,,,Estudo em andamento,,,,,,,DTO CX,TRUE,,,,DTO,,,FALSE,,,,,Não,
+Whats APP Pós Venda,Não,,Rodrigo Petta,Estudo em andamento,,,,,,,DTO CX,TRUE,,,,DTO,,,FALSE,,,,,Não,
+Link para pagamento Cielo,Não,,André Motta,Estudo em andamento,,,,,,,DTO CX,TRUE,,,,DTO,,,FALSE,,,,,Sim,Pequenas Melhorias
+Renovação de Capitalização,Não,,Maria Angela ,Enviado para Projetos em 17/05,,,,,,,DTO CX,TRUE,,,,DTO,,,FALSE,,,,,Não,
+Melhorias Agora,Não,,Ricardo Ferraz,Não Priorizado,,,,,,,DTO CX,TRUE,,,,DTO,,,FALSE,,,,,Não,
+Dacadoo,Não,,Leonardo Vianna ,Não Priorizado,,,,,,,DTO CX,TRUE,,,,DTO,,,FALSE,,,,,Não,
+Exclusão de regras de subscrição / melhoria da plataforma ,Não,,,Não Priorizado,,,,,,,Projetos,FALSE,,,,DTO,,,FALSE,,,,,Não,
+Tipificação central de Atendimento,Não,,Rodrigo Petta,Estudo em andamento,,,,,,,DTO CX,TRUE,,,,DTO,,,FALSE,,,,,Não,
+Cálculo de benefício - Simulação e intenção de autosserviço,Não,,,Estudo em andamento,,,,,,,DTO CX,TRUE,,,,DTO,,,FALSE,,,,,Não,
+Planos Tradicionais,Não,,Reginaldo Ferraz,Estudo em andamento,,,,,,,DTO CX,TRUE,,,,DTO,,,FALSE,,,,,Não,
+Extrato tipo conta corrente no APP Banco - Fase 3,,,Leonardo Vianna,Finalizado,,,,,,,DTO CX,TRUE,,,,Fidelização Prev,,,FALSE,,,,,Não,
+Manutenções Portal Previdência Fase III,,,Leonardo Vianna,Finalizado,,,,,,,DTO CX,TRUE,,,,Fidelização Prev,,,FALSE,,,,,Não,
+Notificação de Inadimplência - Atualizar SAP,,,Leonardo Vianna,Finalizado,,,,,,,DTO CX,TRUE,,,,Fidelização Prev,,,FALSE,,,,,Não,
+Upload QR Code - PIS Portal de Negócio Fidelização Previdência,Não,,Leonardo Vianna,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,,,,Fidelização Prev,,,FALSE,,,,,Não,
+2ª Via de Boleto Portal Previ,Não,,Leonardo Vianna,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,,,,Fidelização Prev,,,FALSE,,,,,Não,
+Exibir Alíquota Regressiva,Não,,Leonardo Vianna,Estudo em andamento,APP Banco,Previdência,,,,,DTO CX,TRUE,17-abr.,,2-jun.,Fidelização Prev,,,FALSE,,,,,Sim,Pequenas Melhorias
+Apresentar Rentabilidade no valor do Plano,Não,,Leonardo Vianna,Estudo em andamento,APP Banco,Previdência,,,,,DTO CX,TRUE,17-abr.,19-mai.,,Fidelização Prev,,,FALSE,,,,,Sim,Pequenas Melhorias
+RÉGUA ATC VENCIDA,Não,,Leonardo Vianna,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,17-abr.,,18-jul.,Fidelização Prev,,,FALSE,,,,,Não,
+Informe de Rentabilidade - Cliente,Não,,Leonardo Vianna,Estudo em andamento,CRM,Previdência,,,,,DTO CX,TRUE,17-abr.,,18-jul.,Fidelização Prev,,,FALSE,,,,,Não,
+Revisão da nova home no app banco,,,Leonardo Vianna,,,Previdência,,,,,DTO CX,TRUE,,,,Fidelização Prev,,,FALSE,,,,,Não,
+Cancelar plano de risco,,,Leonardo Vianna,,,Previdência,,,,,DTO CX,TRUE,,,,Fidelização Prev,,,FALSE,,,,,Não,
+Apresentar Rentabilidade no valor total e do plano (todos os períodos) - Fase 2,,,Leonardo Vianna,,,Previdência,,,,,DTO CX,TRUE,,,,Fidelização Prev,,,FALSE,,,,,Não,
+Manutenção de beneficiário - Portal Não Correntista,,,Leonardo Vianna,Não Correntissta,,Previdência,,,,,DTO CX,TRUE,,,,Fidelização Prev,,,FALSE,,,,,Não,
+Transferência Interna - Melhorias - Correntista,,,Leonardo Vianna,,,Previdência,,,,,DTO CX,TRUE,,,,Fidelização Prev,,,FALSE,,,,,Não,
+Endosso de forma de pagamento Fase 1,Não,,Leonardo Vianna,Estudo em andamento,APP Banco,Vida,,,,,DTO CX,TRUE,17-abr.,,18-jul.,Fidelização Vida,,,FALSE,,,,,Não,
+Endosso de forma de pagamento Vida - BSC,Não,,Leonardo Vianna,Estudo em andamento,APP Banco,Vida,,,,,DTO CX,TRUE,17-abr.,,18-jul.,Fidelização Vida,,,FALSE,,,,,Não,
+Disponibilização   de boleto através do WhatsApp,Não,,Leonardo Vianna,Estudo em andamento,Whatsapp,Vida,,,,,DTO CX,TRUE,17-abr.,,18-jul.,Fidelização Vida,,,FALSE,,,,,Não,
+Re-oferta   pós Feedback pós motivos de cancelamento (Feedback de Cancelamento),Não,,Leonardo Vianna,Estudo em andamento,,Vida,,,,,DTO CX,TRUE,17-abr.,,18-jul.,Fidelização Vida,,,FALSE,,,,,Não,
+Dev. | Reformulação Meus Planos | Prev - Portal Não Correntistas,Não,,Thais Cardoso,Estudo em andamento,,,,,,,DTO CX,TRUE,,,,Não Correntista,,,FALSE,,,,,Não,
+Dev. | Reformulação Alterar Senha | Prev - Portal Não Correntistas,,,Thais Cardoso,Finalizado,,,,,,,DTO CX,TRUE,,,,Não Correntista,,,FALSE,,,,,Não,
+Dev. | Reformulação Alterar E-mail| Prev - Portal Não Correntistas,,,Thais Cardoso,Finalizado,,,,,,,DTO CX,TRUE,,,,Não Correntista,,,FALSE,,,,,Não,
+Dev. | Reformulação - LGPD | Prev - Portal Não Correntistas,,,Thais Cardoso,Finalizado,,,,,,,DTO CX,TRUE,,,,Não Correntista,,,FALSE,,,,,Não,
+Dev. | Reformulação Comprovantes | Prev - Portal Não Correntistas,,,Thais Cardoso,Finalizado,,,,,,,DTO CX,TRUE,,,,Não Correntista,,,FALSE,,,,,Não,
+PI#9|SP4|E|Melhorias na reformulação visual do Site Prev - Consulta Aportes,Não,,Thais Cardoso,Estudo em andamento,Site Previdência,,,,,,DTO CX,TRUE,17-abr.,5-mai.,,Não Correntista,,,FALSE,,,,,Não,
+PI#9|SP4|E|Melhorias na reformulação visual do Site Prev - Sorteios,Não,,Thais Cardoso,Estudo em andamento,,,,,,,DTO CX,TRUE,8-mai.,,7-jul.,Não Correntista,,,FALSE,,,,,Não,
+PI#10|SP1|E|Melhorias na reformulação visual do site Prev - Aportes - Fase 2,Não,,Thais Cardoso,Estudo em andamento,,,,,,,DTO CX,TRUE,17-abr.,,7-jul.,Não Correntista,,,FALSE,,,,,Não,
+Est. | Reformulação Jornada Seu Seguro | PIVI,,,Thais Cardoso,,,,,,,,DTO CX,TRUE,,,,Não Correntista,,,FALSE,,,,,Não,
+Est. | Reformulação Jornada Certificados | PIVI,,,Thais Cardoso,,,,,,,,DTO CX,TRUE,,,,Não Correntista,,,FALSE,,,,,Não,
+Est. | Reformulação Jornada Sorteios | PIVI,,,Thais Cardoso,,,,,,,,DTO CX,TRUE,,,,Não Correntista,,,FALSE,,,,,Não,
+Est. | Reformulação Jornada Cancelamento de Apólice| PIVI,,,Thais Cardoso,,,,,,,,DTO CX,TRUE,,,,Não Correntista,,,FALSE,,,,,Não,
+Est. | Alterar forma de pagamento| Portal Não Correntista,,,Thais Cardoso,,,,,,,,DTO CX,TRUE,,,,Não Correntista,,,FALSE,,,,,Não,
+Est. | Alterar Agência/Conta de Débito| Portal Não Correntista,,,Thais Cardoso,,,,,,,,DTO CX,TRUE,,,,Não Correntista,,,FALSE,,,,,Não,
+Est. | Solicitar portabilidade| Portal Não Correntista,,,Thais Cardoso,,,,,,,,DTO CX,TRUE,,,,Não Correntista,,,FALSE,,,,,Não,
+Est. | Cancelar Previdência| Portal Não Correntista,,,Thais Cardoso,,,,,,,,DTO CX,TRUE,,,,Não Correntista,,,FALSE,,,,,Não,
+Est. | Cancelar / Reativar envio de documento físico| Portal Não Correntista,,,Thais Cardoso,,,,,,,,DTO CX,TRUE,,,,Não Correntista,,,FALSE,,,,,Não,
+Est. | Simulador de Benefício Fiscal| Portal Não Correntista,,,Thais Cardoso,,,,,,,,DTO CX,TRUE,,,,Não Correntista,,,FALSE,,,,,Não,
+Est. | Comprovante de cobrança de carregamento| Portal Não Correntista,,,Thais Cardoso,,,,,,,,DTO CX,TRUE,,,,Não Correntista,,,FALSE,,,,,Não,
+Prestamista Parceiros – Produto Individual Contas de Consumo – Operador,Não,,Neiva Barbieri,Estudo em andamento,,Prestamista,,,,,DTO CX,TRUE,17-abr.,,18-jul.,Novas Sol. Vida e Prest.,,,FALSE,,,,,Não,
+Nova API contratação seguro Viagem,,,Neiva Barbieri,,,Prestamista,,,,,DTO CX,TRUE,,,,Novas Sol. Vida e Prest.,,,FALSE,,,,,Não,
+Jornada contratação Vida Viva (White label),,,Neiva Barbieri,,,Prestamista,,,,,DTO CX,TRUE,,,,Novas Sol. Vida e Prest.,,,FALSE,,,,,Não,
+Jornada contratação Viagem (White label),,,Neiva Barbieri,,,Prestamista,,,,,DTO CX,TRUE,,,,Novas Sol. Vida e Prest.,,,FALSE,,,,,Não,
+Alterar solução de cartão de crédito do seguro viagem,,,Neiva Barbieri,,,Prestamista,,,,,DTO CX,TRUE,,,,Novas Sol. Vida e Prest.,,,FALSE,,,,,Não,
+Orquestrador de APIS,,,Neiva Barbieri,,,Prestamista,,,,,DTO CX,TRUE,,,,Novas Sol. Vida e Prest.,,,FALSE,,,,,Não,
+Aporte nos planos de Prev contratados anteriormente,Não,,Camilla Terra,Estudo em andamento,APP BSC,Previdência,,,,,DTO CX,TRUE,,,,Novas Soluções Prev,,,FALSE,,,,,Não,
+Rotina de manutenções e data de ATC para não correntistas em plataforma de parceiros,Não,,Camilla Terra,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,,,,Novas Soluções Prev,,,FALSE,,,,,Não,
+Rotina de resgate por autoserviço em plataforma de parceiros,Não,,Camilla Terra,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,,,,Novas Soluções Prev,,,FALSE,,,,,Não,
+"Contratação, consulta simples e cancelamento 7 dias",,,Camilla Terra,,,Previdência,,,,,DTO CX,TRUE,,,,Novas Soluções Prev,,,FALSE,,,,,Não,
+Permitir que os clientes realizem aporte nos planos de previdência contratados anteriormente,,,Camilla Terra,,,Previdência,,,,,DTO CX,TRUE,,,,Parcerias Prev,,,FALSE,,,,,Não,
+Identificar e listar os produtos de Previdência individuais contratados em plataformas de parceiros e permitir o cancelamento por desistência em 7 dias,,,Camilla Terra,,,Previdência,,,,,DTO CX,TRUE,,,,Parcerias Prev,,,FALSE,,,,,Não,
+Estudo para criar as rotinas de manutenções/serviços para alteração de beneficiários e data de ATC para não correntistas na plataforma de parceiros,,,Camilla Terra,,,Previdência,,,,,DTO CX,TRUE,,,,Parcerias Prev,,,FALSE,,,,,Não,
+Estudo para criar a rotina de resgate por autosserviço na plataforma de parceiros,,,Camill Terra,,,Previdência,,,,,DTO CX,TRUE,,,,Parcerias Prev,,,FALSE,,,,,Não,
+Parceria   Volvo consórcio,Não,,Neiva,Estudo em andamento,,Prestamista,,,,,DTO CX,TRUE,17-abr.,,16-jun.,Prestamista,,,FALSE,,,,,Não,
+Endossos,Não,,Neiva,Estudo em andamento,,Prestamista,,,,,DTO CX,TRUE,17-abr.,,16-jun.,Prestamista,,,FALSE,,,,,Não,
+Prestamista Agro,Não,,Neiva,Estudo em andamento,,Prestamista,,,,,DTO CX,TRUE,,,,Prestamista,,,FALSE,,,,,Não,
+Produto Black BBBV028 - Renovação Indevida,,,Neiva,,,Prestamista,,,,,DTO CX,TRUE,,,,Prestamista,,,FALSE,,,,,Não,
+Cagiro Parcerias,,,Neiva,,,Prestamista,,,,,DTO CX,TRUE,,,,Prestamista,,,FALSE,,,,,Não,
+Renault,,,Neiva,,,Prestamista,,,,,DTO CX,TRUE,,,,Prestamista,,,FALSE,,,,,Não,
+Otimização nos canais Digitais Vida,,,Neiva,,,Prestamista,,,,,DTO CX,TRUE,,,,Prestamista,,,FALSE,,,,,Não,
+BR consorcio,,,Neiva,,,Prestamista,,,,,DTO CX,TRUE,,,,Prestamista,,,FALSE,,,,,Não,
+Cheque empresarial,,,Neiva,,,Prestamista,,,,,DTO CX,TRUE,,,,Prestamista,,,FALSE,,,,,Não,
+PI#7|SP4|E|VIDA - Jornada de Resgate com validação de Biometria Facial,Não,,Marcelo Porto ,Estudo em andamento,,Vida,,,,,DTO CX,TRUE,17-abr.,,18-jul.,Resgate,,,FALSE,,,,,Não,
+PI#9 | SP4|E| PREV-Criação de forma de pagamento de Resgate Via Pix,Não,,Marcelo Porto ,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,17-abr.,,18-jul.,Resgate,,,FALSE,,,,,Não,
+Criar API para Jornada de Resgate nos sites Parceiros,Não,,Marcelo Porto ,Estudo em andamento,,Previdência,,,,,DTO CX,TRUE,17-abr.,,18-jul.,Resgate,,,FALSE,,,,,Não,
+Jornada de Resgate com Biometria Facial (Idwall) - site não correntista,,,Marcelo Porto ,,,Previdência,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+Jornada de Resgate com Biometria Facial (Idwall) - BSC,,,Marcelo Porto ,,,Previdência,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+Revisão de Jornada para inclusão de forma de pagamento Pix,,,Marcelo Porto ,,,Previdência,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+Criação forma de pagamento de resgate via PIX (Parcerias),,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+Incluir na jornada de resgate do APP banco a Biometria Facial para validação da c/c recém aberta (Idwall),,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+Apresentar as propostas de Prev Individual (produtos Altamira) para que a Central de Atendimento possa incluir a solicitação de resgate,,,Marcelo Porto ,,,Previdência,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+Cancelamento de solicitação de resgate no mesmo dia,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+Disponibilizar protocolo de resgate e cancelamento - Sala Seguros,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+Jornada e Desenvolvimento de Resgate Previdência Individual no Altamira,,,Marcelo Porto ,,,Previdência,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+Automatização da nova Jornada de Resgate de Prev Corporate (Altamira),,,Marcelo Porto ,,,Previdência,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+Revisão da Jornada de Resgate no IB,,,Marcelo Porto ,,IB,Previdência,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+Revisão da Jornada de Resgate no IB (incluir valores em tela),,,Marcelo Porto ,,IB,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+Apresentar as propostas de Prev Individual (produtos Altamira) para que o segurado possa incluir a solicitação de resgate,,,Marcelo Porto ,,IB/APP Banco,Previdência,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+Liberar pelo PEGA os resgates pendentes após validação da conta corrente recém aberta,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+Permitir parametrização de valores / quantidade de dias para validação de conta Bradesco recém aberta,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+Cobrança de prêmio após resgate ou cancelamento,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+PREV - Jornada e Desenvolvimento de Resgate Previdência Individual do Altamira - Canal APP BANCO / IB,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+PREV - Criar API para Jornada de resgate nos sites parceiros - Canal API Sites parceiros,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+VIDA - Criar Dashboard dos canais digitais para acomanhamento - Canal APP BANCO / IB / APP BSC,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+PREV - Automatização da nova Jornada de resgate de Prev Corporate (Altamira) - Canal SITE CORPORATE,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+VIDA - Desenvolvimento Jornada Resgate na URA (após projeto de Entrar logado na URA Vida) - Canal URA,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,Encaminhar para time de URA,,Não,Comunicação 
+PREV - Solicitação de resgate e upload de documentos no SEAP (atender o não correntista e resgates que precisem de documentos para análise) - Canal SEAP,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+PREV - Criar Simulador de Resgate de Previdência (Altamira) - Faixa Regime tributário - Canal SITE CORPORATE,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+VIDA - Disponibilizar consultas e informações de resgate no Whatsapp - Canal WHATSAPP,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+PREV - Disponibilizar consultas e informações de resgate no Whatsapp - Canal WHATSAPP,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+VIDA - Automatizar a inconsistência do resgate - Canal SISTEMA SISE/PEGA,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+PREV - Automatizar a inconsistência do resgate - Canal SISTEMA FGBI/ALTAMIRA/PEGA,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+VIDA - Envio de mensagem via whatsapp com status resgate - Canal WHATSAPP,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+PREV - Envio de mensagem via whatsapp com status resgate - Canal WHATSAPP,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+"PREV - Disponibilizar status do resgate nos canais digitais - Canal IB (INTERNET BANKING), APP BANCO e APP BSC",,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+"VIDA - Disponibilizar status do resgate nos canais digitais - Canal IB (INTERNET BANKING), APP BANCO e APP BSC",,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+"PREV - Criar simulador de resgate (Acumulação e Risco) com valores, IR e aliquotas nos canais digitais - Canal IB (INTERNET BANKING), APP BANCO e APP BSC",,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+"PREV - Incluir as propostas do sistema Altamira nos canais digitais - Canal IB (INTERNET BANKING), APP BANCO e APP BSC",,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+"PREV - Envio de mensagem via SMS/whatsapp para clientes de Previdência informando sobre ""dinheiro esquecido"" (plano cancelado com saldo a mais de XX tempo sem movimentação) - Canal WHATSAPP/SMS",,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+"VIDA - Envio de mensagem via SMS/whatsapp para clientes de Vida informando sobre ""dinheiro esquecido"" (plano cancelado com saldo a mais de XX tempo sem movimentação) - Canal WHATSAPP/SMS",,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+"VIDA - Incluir informações de valores de resgate (IR, vr. Bruto e vr. Liquido) - Canal IB / APP BSC",,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Sim,Pequenas Melhorias
+VIDA - Contemplar última parcela do prêmio paga no valor do resgate / Parcela renovação no resgate - Canal Sise SP/IB/APP Banco,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+VIDA - Liberar o resgate após validação da conta corrente recém aberta através do relatório - Canal PEGA,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+VIDA - Permitir parametrização de valores / quantidade de dias para validação de conta Bradesco recém aberta - Canal PEGA,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+PREV Corporate - Funcionalidade de desligamentos de participantes pela empresa - Canal Site Corporate / Alab WEB,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+PREV - Transferência Interna entre sistemas (Portabilidade) - Canal SISTEMAS ALTAMIRA / FGBI,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+PREV - Comunicação via SMS/Whatshapp de conclusão de Portabilidade nos canais digitais - Canal IB / APP BANCO,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+PREV - Assinar desistência de portabilidade de saída (melhorar o processo de desistência que temos hoje) - Canal IB / APP BANCO /APP BSC,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+VIDA - Criar grupos de acesso para inclusão de resgate no PEGA com funcionalidades específicas para cada grupo - Canal PEGA,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+VIDA - Permitir excluir/estornar resgates retornando valor de reserva para a proposta - Canal SISE SP / PEGA,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+VIDA - Ajustes no Resgate de baixa judicial (validação código de barras do boleto) - Canal SISE SP,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+VIDA - Inclusão de resgates judiciais no PEGA - Canal PEGA,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+PREV - Marcar na inclusão de resgate para clientes Não residentes / Moléstia Grave - Trazer histórico - Canal SISTEMAS ALTAMIRA / FGBI,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+PREV - Automatizar inclusão de resgates no Altamira para os planos Prevelo - Canal PPMC 59937,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+PREV - Relatório com informações para atendimento das resoluções 382 e 4539 referentes ao resgate - Canal PPMC 64179,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,,
+VIDA - Inclusão automática de resgate nos sistemas Sise RJ e Sise SP (PVR) - Canal PPMC 66234,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+PREV - Permitir Estorno de Portabilidade Recebida e Cedida - Canal PPMC 56056,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+"- Tratar corretamente transferência interna com bloqueio judicial nos sistemas legados (FGBI, PSCG, Altamira) - Canal PPMC 62926",,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+VIDA - Envio SMS nas inclusões de resgate dos produtos resgatáveis no Sise SP e Sise RJ (solução definitiva) Complemento - Canal PPMC 49072,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,Não,
+PREV - Inclusão no sistemas legado (HABE) a data de solicitação do resgate - Canal Solicitação Compliance/Controles Internos,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,,
+PREV - Implantar no sistema legado a marcação de clientes Não residentes (validar tb no REST) - Canal Solicitação Compliance/Controles Internos,,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,,
+"PREV - Criar relatório nos sistemas (FGBI, HABE, PSGC e Altamira) para medir prazo de resgate entre a solicitação e data de pagamento - Canal Solicitação Compliance",Não,,Marcelo Porto ,,,,,,,,DTO CX,TRUE,,,,Resgate,,,FALSE,,,,,,
+"PI#9|SP4|E|VIDA – Eliminar formulário físico de Autorização para Crédito, com previsibilidade para PIX",Não,,Maristela ,Estudo em andamento,Portal institucional,Previdência,,,,,DTO CX,TRUE,24-fev.,,18-jul.,Sinistro,Imersão,,FALSE,,,,,Não,
+Backlog|SP|E|Abertura de comunicado de sinistro Vida e Previdência - Portal de Negócios,Não,,Maristela ,Estudo em andamento,Portal de Negócios,Previdência,,,,,DTO CX,TRUE,24-mar.,,18-jul.,Sinistro,,,FALSE,,,,,Não,
+Criação de perfil interno (sucursal e central),,,Maristela ,,,,,,,,DTO CX,TRUE,,,,Sinistro,,,FALSE,,,,,Não,
+Cancelamento e Reabertura de processo por reanálise ou tempo,,,Maristela ,,,Previdência,,,,,DTO CX,TRUE,,,,Sinistro,,,FALSE,,,,,Não,
+Comprovante de Pagamento e Informe de Rendimento nos Canais Prev,,,Maristela ,,,Previdência,,,,,DTO CX,TRUE,,,,Sinistro,,,FALSE,,,,,Não,
+Pagamento de Sinistro via Pix Vida e Prev,,,Maristela ,,,Previdência,,,,,DTO CX,TRUE,,,,Sinistro,,,FALSE,,,,,Não,
+Comunicado de Sinistro via WhatsApp,,,Maristela ,,WhatsAPP,Previdência,,,,,DTO CX,TRUE,,,,Sinistro,,,FALSE,,,,,Não,
+Regulação unilateral de sobrevivência,,,Maristela ,,,,,,,,DTO CX,TRUE,,,,Sinistro,,,FALSE,,,,,,
+Comunicado e Acompanhamento de Sinistro Vida e Prev no App BS,,,Maristela ,,APP BS,Previdência,,,,,DTO CX,TRUE,,,,Sinistro,,,FALSE,,,,,Não,
+Integração com a Europ,,,Maristela ,,,,,,,,DTO CX,TRUE,,,,Sinistro,,,FALSE,,,,,Não,
+Regulação Automática para Perda de Renda,,,Maristela ,,,,,,,,DTO CX,TRUE,,,,Sinistro,,,FALSE,,,,,Não,
+Descontinuidade do Adere,,,Maristela ,,,Previdência,,,,,DTO CX,TRUE,,,,Sinistro,,,FALSE,,,,,,
+PI#8| SP4 |E| API que consulta Sinistros Reclamados,Não,,Fabricio Oliveira,Estudo em andamento,Portal de Negócios,,,,,,DTO CX,TRUE,17-abr.,,7-jul.,Subscrição e Analytics,,,FALSE,,,,,Não,
+PI#10| SP4 |E| PIS – Questionário por árvore decisória,Não,,Fabricio Oliveira,Estudo em andamento,Portal de Negócios,,,,,,DTO CX,TRUE,17-abr.,,7-jul.,Subscrição e Analytics,,,FALSE,,,,,Não,
+[PIS] | PI#10| SP4 |R| Integração PIS x Salesforce – API de retorno do Parecer,Não,,Fabricio Oliveira,Estudo em andamento,Sistema PIS (no MVP),,,,,,DTO CX,TRUE,17-abr.,,18-jul.,Subscrição e Analytics,,,FALSE,,,,,Não,
+AADAC - API que forneça Score de Risco do ADAC (novo motor de regras),,,Fabricio Oliveira,,ADAC,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Ingestão de informações referente a versionamento de produtos considerando a data de comercialização de cada versão; PIS,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Inserir  as informações do pós venda no ADAC e no portal do corretor;,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,Encaminhar para TI,,Sim,Ingestão de dados ADAC
+"Inserir  as informações do sistema de comissionamento no ADAC (Incluindo Campanha,   Bônus, % Carregamento);",,,Fabricio Oliveira,,ADAC,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,Encaminhar para TI,,Sim,Ingestão de dados ADAC
+Dados de acionamento das assistências – API de comunicação com parceiros fornecedores   de Assistências (EUROP e Mondial).,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Base de todas as cotações realizadas nos nossos Fronts no ADAC - BVP Next,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Base de todas as cotações realizadas nos nossos Fronts no ADAC - BVP Vida,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Base de todas as cotações realizadas nos nossos Fronts no ADAC - PIS,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+API para integração sistêmica com prestadores de serviços. Exemplo: Samplemed - Tele   entrevista médica;,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+API para conexão com plataformas externas de dados. Exemplo: Score de Risco (POC); Samplemed e Techtrail,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Estudo de como adequar uma estrutura para aceitar agravos e descontos;,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+"Demonstrativo de atualização monetária (prêmio e capital) e reenquadramento para ser   disponibilizado em todos os canais (corretor, cliente).",,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Disponibilização de bases de fechamento diretamente no SAS;,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+"GEAPO – Melhorias relacionadas a abertura do sinistro por cobertura, despesas   comerciais abertas em comissão, assistências, etc.;",,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Criação de painéis para parceiros para avaliação de resultado e dados da carteira   (diretamente no SAP) utilizando a ferramenta Power BI.,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+"Possibilidade de conexão dos Sistemas de Subscrição com o projeto de PA digital, para subscrição automatizada no AE;",,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+API para os Sistemas de Subscrição PEGA e SRVP comunicar casos com suspeita de lavagem de dinheiro ao sistema do Compliance (PLD);,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+"ntegração dos Sistemas de Subscrição com os sistemas de previdência, para futuras atuações e avaliação de riscos;",,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+"Integração dos Sistemas de Subscrição com a Regulação e Prevenção a Fraude, onde possam enviar de forma automatizada as fraudes constatadas e casos suspeitos (Back list);",,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Possiblidade de conexão dos Sistemas de Subscrição BVP com os de Subscrição Saúde. => Exemplo de consultas: Se o cliente possui plano de saúde ativo e qual seu Score de Risco.,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Cálculo da PMBC no SAP Nuvem;,,,Fabricio Oliveira,,SAP,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Cálculo da PSL no SAP Nuvem;,,,Fabricio Oliveira,,SAP,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Cálculo da repactuação no SAP Nuvem;,,,Fabricio Oliveira,,SAP,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Cálculo do excedente financeiro no SAP Nuvem;,,,Fabricio Oliveira,,SAP,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Validação das correções monetárias e reenquadramentos realizados nos sistemas;,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Utilizar a informação de canal de venda (principalmente DIGITAL) do SISE SP para alimentar o CDL;,,,Fabricio Oliveira,,SISE SP,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+"Resultado por produto diretamente dos dados do SAP – criação de indicadores, painéis, etc.;",,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Excedente técnico – Provisionamento e Apuração;,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+"Indicadores de negócio – Vendas, cancelamento, inadimplência, faturamento, sinistros, sinistralidade, quantidade de segurados, CCB pendente, etc;",,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Modelo preditivo de cancelamento (Churn);,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+API para Score de risco Interno dos segurados (ADAC),,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+% de conversão (cotação e venda);,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,,
+% de recusas (motivos);,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,,
+"Produção por canal, tipo de cliente e segmento;",,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Ticket médio;,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,,
+Coberturas contratadas média;,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Assistências contratadas/frequência de utilização;,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+"Cancelamento, inadimplência e falta de pagamento;",,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Sinistralidade por cobertura;,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+"Precisamos endereçar um painel deste para cada canal, corretor e parceiro.",,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Possibilitar que campanhas de vendas com clientes que efetuaram resgates ou receberam benefícios sejam parâmetros para tomada de decisão na subscrição,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Inclusão no Sistema Front/PEGA do questionário com modelo de árvore decisória;,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Estudo para agrupar as API's - Sales Force/Mulesoft,,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+API que consulta Sinistros Reclamados,Não,,Fabricio Oliveira,,,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+API de Consulta Questionário de DPS por Produto - PIS/PEGA,Não,,Fabricio Oliveira,,PIS/PEGA,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+API Consulta dados do Produto - PIS/PEGA,Não,,Fabricio Oliveira,,PIS/PEGA,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+API para cadastrar e atualizar Proposta - PIS/PEGA,Não,,Fabricio Oliveira,,PIS/PEGA,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+API para Consulta do Status da Proposta - PIS/PEGA,Não,,Fabricio Oliveira,,PIS/PEGA,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+API que fornece histórico de propostas do PIS/PEGA,Não,,Fabricio Oliveira,,PIS/PEGA,,,,,,DTO CX,TRUE,,,,Subscrição e Analytics,,,FALSE,,,,,Não,
+Automatizar a prestação de subsídios judiciais [SISE - SP x LEXW],Não,22/05/2023,Ana Flávia ,,Sise/ LEXW,,,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,,,
+Pagamentos de Beneficios - Correções para imposto de renda,Não,22/05/2023,Ana Flávia ,,,,,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,,,
+Melhorias nas funcionalidade de bloqueio judicial previdência - Altamira,Não,22/05/2023,Ana Flávia ,,Altamira,,,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,,,
+Informes de Rendimento Previdência ,Não,22/05/2023,Ana Flávia ,,,,,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,,,
+DIRF - Declaração Anual de Imposto de Renda,Não,22/05/2023,Ana Flávia ,,,,,,,,DTO Projetos,FALSE,,,,,,,TRUE,,,,,,
+OCR - Sinistro Digital Vida e Prev,Não,,Maristela ,,,,,,,,DTO Projetos,,,,,,,,TRUE,,,,,,
+Brdesco Expresso,sim,,André Motta,Estudo em Andamento ,,,,,,,DTO CX,,,,,,,,FALSE,,,,,,
+Acesso Master Autofaturamento,Não,,,,,,,,,,DTO CX,,,,,,,,FALSE,,,,,,
+Identidade visual - Padronização de Ícone Previdência / Multicanal,Sim,,,,,,,,,,DTO CX,,,,,,,,FALSE,,,,,,
+Jornada de contratação Vida / Revisão de conteúdo,Nao,,,,,,,,,,DTO CX,,,,,,,,FALSE,,,,,,

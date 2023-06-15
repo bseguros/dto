@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1483" height="641" viewBox="0 0 1483 641">
+  <g id="Ciclo_1" data-name="Ciclo 1" transform="translate(-173 -220)">
+    <g id="Retângulo_890" data-name="Retângulo 890" transform="translate(173 220)" fill="#61d0e1" stroke="#61d0e1" stroke-width="1">
+      <rect width="1423" height="304" rx="100" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1422" height="303" rx="99.5" fill="none"/>
+    </g>
+    <g id="Retângulo_889" data-name="Retângulo 889" transform="translate(444 220)" fill="#fff" stroke="#61d0e1" stroke-width="1">
+      <rect width="1212" height="304" rx="100" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1211" height="303" rx="99.5" fill="none"/>
+    </g>
+    <g id="Grupo_32789" data-name="Grupo 32789" transform="translate(225 -65)">
+      <g id="Grupo_32788" data-name="Grupo 32788">
+        <g id="Elipse_186" data-name="Elipse 186" transform="translate(276 332)" fill="#fff" stroke="#61d0e1" stroke-width="3">
+          <circle cx="56" cy="56" r="56" stroke="none"/>
+          <circle cx="56" cy="56" r="54.5" fill="none"/>
+        </g>
+        <path id="Icon_awesome-users" data-name="Icon awesome-users" d="M10.025,24.91c3.686,0,6.683-3.387,6.683-7.553s-3-7.553-6.683-7.553-6.683,3.387-6.683,7.553S6.339,24.91,10.025,24.91Zm46.783,0c3.686,0,6.683-3.387,6.683-7.553s-3-7.553-6.683-7.553-6.683,3.387-6.683,7.553S53.122,24.91,56.808,24.91Zm3.342,3.777H53.466a6.3,6.3,0,0,0-4.71,2.2A17.4,17.4,0,0,1,56.6,43.793h6.892a3.575,3.575,0,0,0,3.342-3.777V36.24C66.833,32.074,63.836,28.687,60.15,28.687Zm-26.733,0c6.464,0,11.7-5.913,11.7-13.218S39.881,2.25,33.417,2.25s-11.7,5.913-11.7,13.218S26.952,28.687,33.417,28.687Zm8.02,3.777H40.57a14.493,14.493,0,0,1-14.306,0H25.4c-6.642,0-12.03,6.09-12.03,13.6v3.4c0,3.128,2.245,5.665,5.012,5.665H48.454c2.767,0,5.012-2.537,5.012-5.665v-3.4C53.466,38.553,48.078,32.463,41.436,32.463Zm-23.36-1.581a6.3,6.3,0,0,0-4.71-2.2H6.683C3,28.687,0,32.074,0,36.24v3.777a3.575,3.575,0,0,0,3.342,3.777h6.882A17.444,17.444,0,0,1,18.076,30.882Z" transform="translate(298.583 359.313)" fill="#61d0e1"/>
+      </g>
+      <text id="Consolidação_do_time" data-name="Consolidação 
+do time" transform="translate(243 461)" fill="#727272" font-size="16" font-family="OpenSans, Open Sans"><tspan x="-49.926" y="17">Consolidação </tspan><tspan x="-28.59" y="37">do time</tspan></text>
+    </g>
+    <g id="Grupo_32790" data-name="Grupo 32790" transform="translate(452 -65)">
+      <g id="Grupo_32788-2" data-name="Grupo 32788">
+        <g id="Elipse_186-2" data-name="Elipse 186" transform="translate(276 332)" fill="#fff" stroke="#61d0e1" stroke-width="3">
+          <circle cx="56" cy="56" r="56" stroke="none"/>
+          <circle cx="56" cy="56" r="54.5" fill="none"/>
+        </g>
+        <path id="Icon_awesome-map" data-name="Icon awesome-map" d="M0,10.169V42.183a1.479,1.479,0,0,0,2.028,1.374l12.763-5.809V2.25L1.86,7.422A2.959,2.959,0,0,0,0,10.169ZM17.749,37.748,35.5,43.664V8.166L17.749,2.25Zm33.47-35.39L38.456,8.166v35.5l12.931-5.172a2.958,2.958,0,0,0,1.86-2.746V3.731A1.479,1.479,0,0,0,51.218,2.357Z" transform="translate(305.377 365.043)" fill="#61d0e1"/>
+      </g>
+      <text id="Mapeamento_e_diagnóstico_dos_assuntos_das_células_BVP" data-name="Mapeamento e diagnóstico dos assuntos das células BVP" transform="translate(243 461)" fill="#727272" font-size="16" font-family="OpenSans, Open Sans"><tspan x="-56.574" y="17">Mapeamento e </tspan><tspan x="-58.434" y="37">diagnóstico dos </tspan><tspan x="-76.219" y="57">assuntos das células </tspan><tspan x="-14.762" y="77">BVP</tspan></text>
+    </g>
+    <g id="Grupo_32795" data-name="Grupo 32795" transform="translate(679 -65)">
+      <g id="Grupo_32788-3" data-name="Grupo 32788">
+        <g id="Elipse_186-3" data-name="Elipse 186" transform="translate(276 332)" fill="#fff" stroke="#61d0e1" stroke-width="3">
+          <circle cx="56" cy="56" r="56" stroke="none"/>
+          <circle cx="56" cy="56" r="54.5" fill="none"/>
+        </g>
+        <path id="Icon_metro-tree" data-name="Icon metro-tree" d="M51.834,39.391h-.808v-10.5a5.66,5.66,0,0,0-5.653-5.653H31.644V16.778h.808a2.43,2.43,0,0,0,2.423-2.423V6.279a2.43,2.43,0,0,0-2.423-2.423H24.376a2.43,2.43,0,0,0-2.423,2.423v8.076a2.43,2.43,0,0,0,2.423,2.423h.808v6.461H11.454A5.66,5.66,0,0,0,5.8,28.892v10.5H4.994a2.43,2.43,0,0,0-2.423,2.423v8.076a2.43,2.43,0,0,0,2.423,2.423H13.07a2.43,2.43,0,0,0,2.423-2.423V41.813a2.43,2.43,0,0,0-2.423-2.423h-.808V29.7H25.184v9.691h-.808a2.43,2.43,0,0,0-2.423,2.423v8.076a2.43,2.43,0,0,0,2.423,2.423h8.076a2.43,2.43,0,0,0,2.423-2.423V41.813a2.43,2.43,0,0,0-2.423-2.423h-.808V29.7H44.566v9.691h-.808a2.43,2.43,0,0,0-2.423,2.423v8.076a2.43,2.43,0,0,0,2.423,2.423h8.076a2.43,2.43,0,0,0,2.423-2.423V41.813a2.43,2.43,0,0,0-2.423-2.423ZM12.262,49.082H5.8V42.621h6.461v6.461Zm19.382,0H25.184V42.621h6.461v6.461ZM25.184,13.547V7.086h6.461v6.461H25.184ZM51.027,49.082H44.566V42.621h6.461v6.461Z" transform="translate(303.586 359.916)" fill="#61d0e1"/>
+      </g>
+      <text id="Definição_da_estrutura_papéis_e_responsabilidades_da_DTO" data-name="Definição da estrutura, papéis e responsabilidades da DTO" transform="translate(243 461)" fill="#727272" font-size="16" font-family="OpenSans, Open Sans"><tspan x="-85.301" y="17">Definição da estrutura, </tspan><tspan x="-31.148" y="37">papéis e </tspan><tspan x="-79.441" y="57">responsabilidades da </tspan><tspan x="-16.488" y="77">DTO</tspan></text>
+    </g>
+    <g id="Grupo_32792" data-name="Grupo 32792" transform="translate(907 -65)">
+      <g id="Grupo_32788-4" data-name="Grupo 32788">
+        <g id="Elipse_186-4" data-name="Elipse 186" transform="translate(276 332)" fill="#fff" stroke="#61d0e1" stroke-width="3">
+          <circle cx="56" cy="56" r="56" stroke="none"/>
+          <circle cx="56" cy="56" r="54.5" fill="none"/>
+        </g>
+        <path id="Icon_ionic-ios-search" data-name="Icon ionic-ios-search" d="M51.753,48.857l-13.3-13.423a18.951,18.951,0,1,0-2.876,2.914L48.79,51.684a2.046,2.046,0,0,0,2.889.075A2.06,2.06,0,0,0,51.753,48.857ZM23.563,38.51a14.964,14.964,0,1,1,10.584-4.383A14.872,14.872,0,0,1,23.563,38.51Z" transform="translate(303.593 359.594)" fill="#61d0e1"/>
+      </g>
+      <text id="Organização_e_desenvolvimento_dos_estudos_por_especialidade" data-name="Organização e desenvolvimento dos estudos por especialidade" transform="translate(243 461)" fill="#727272" font-size="16" font-family="OpenSans, Open Sans"><tspan x="-53.109" y="17">Organização e </tspan><tspan x="-79.625" y="37">desenvolvimento dos </tspan><tspan x="-44.668" y="57">estudos por </tspan><tspan x="-50.766" y="77">especialidade</tspan></text>
+    </g>
+    <g id="Grupo_32794" data-name="Grupo 32794" transform="translate(1134 -65)">
+      <g id="Grupo_32788-5" data-name="Grupo 32788">
+        <g id="Elipse_186-5" data-name="Elipse 186" transform="translate(276 332)" fill="#fff" stroke="#61d0e1" stroke-width="3">
+          <circle cx="56" cy="56" r="56" stroke="none"/>
+          <circle cx="56" cy="56" r="54.5" fill="none"/>
+        </g>
+        <path id="Icon_metro-flow-branch" data-name="Icon metro-flow-branch" d="M42.166,10.393a6.383,6.383,0,1,0-9.085,5.763c-.218,4.213-3.378,5.644-8.87,7.7a34.717,34.717,0,0,0-7.045,3.282V16.181a6.383,6.383,0,1,0-5.319,0V36.524a6.385,6.385,0,1,0,5.362.021c.218-4.21,3.38-5.644,8.87-7.7,5.4-2.027,12.077-4.551,12.34-12.649a6.377,6.377,0,0,0,3.747-5.8ZM14.506,6.71a3.684,3.684,0,1,1-3.681,3.684A3.681,3.681,0,0,1,14.506,6.71Zm0,39.282a3.684,3.684,0,1,1,3.681-3.684,3.683,3.683,0,0,1-3.681,3.684ZM35.783,14.077a3.684,3.684,0,1,1,3.681-3.684,3.683,3.683,0,0,1-3.681,3.684Z" transform="translate(306.855 361.649)" fill="#61d0e1"/>
+      </g>
+      <text id="Resignificação_e_Desenho_do_fluxo_de_entrada_dos_estudos" data-name="Resignificação e Desenho do fluxo de entrada dos estudos" transform="translate(243 461)" fill="#727272" font-size="16" font-family="OpenSans, Open Sans"><tspan x="-59.238" y="17">Resignificação e </tspan><tspan x="-77.305" y="37">Desenho do fluxo de </tspan><tspan x="-76.586" y="57">entrada dos estudos</tspan></text>
+    </g>
+    <text id="Ciclo_1-2" data-name="Ciclo 1" transform="translate(224 312)" fill="#fff" font-size="32" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="34">Ciclo 1</tspan></text>
+    <text id="Mapeamento_estruturação_e_lançamento" data-name="Mapeamento, estruturação e lançamento" transform="translate(224 363)" fill="#061d4a" font-size="22" font-family="Roboto-Regular, Roboto"><tspan x="0" y="23">Mapeamento, </tspan><tspan x="0" y="47">estruturação e </tspan><tspan x="0" y="71">lançamento</tspan></text>
+  </g>
+  <g id="Ciclo_1-3" data-name="Ciclo 1" transform="translate(-173 117)">
+    <g id="Retângulo_890-2" data-name="Retângulo 890" transform="translate(173 220)" fill="#61d0e1" stroke="#61d0e1" stroke-width="1">
+      <rect width="1423" height="304" rx="100" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1422" height="303" rx="99.5" fill="none"/>
+    </g>
+    <g id="Retângulo_889-2" data-name="Retângulo 889" transform="translate(444 220)" fill="#fff" stroke="#61d0e1" stroke-width="1">
+      <rect width="1212" height="304" rx="100" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1211" height="303" rx="99.5" fill="none"/>
+    </g>
+    <g id="Grupo_32789-2" data-name="Grupo 32789" transform="translate(260 -85)">
+      <g id="Grupo_32788-6" data-name="Grupo 32788">
+        <g id="Elipse_186-6" data-name="Elipse 186" transform="translate(276 332)" fill="#fff" stroke="#61d0e1" stroke-width="3">
+          <circle cx="56" cy="56" r="56" stroke="none"/>
+          <circle cx="56" cy="56" r="54.5" fill="none"/>
+        </g>
+        <path id="Icon_awesome-cloud" data-name="Icon awesome-cloud" d="M45.1,18.574A8.062,8.062,0,0,0,37.58,7.619a8.012,8.012,0,0,0-4.471,1.359A13.422,13.422,0,0,0,8.053,15.671c0,.226.008.453.017.679a12.082,12.082,0,0,0,4.01,23.479H42.948A10.736,10.736,0,0,0,45.1,18.574Z" transform="translate(305.157 366.96)" fill="#61d0e1"/>
+      </g>
+      <text id="Consolidação_e_classificação_de_todos_os_desejos_dos_gestores_500_" data-name="Consolidação e classificação de todos os desejos dos gestores (˜500)" transform="translate(243 461)" fill="#727272" font-size="16" font-family="OpenSans, Open Sans"><tspan x="-56.492" y="17">Consolidação e </tspan><tspan x="-80.773" y="37">classificação de todos </tspan><tspan x="-88.715" y="57">os desejos dos gestores </tspan><tspan x="-23.191" y="77">(˜500)</tspan></text>
+    </g>
+    <g id="Grupo_32790-2" data-name="Grupo 32790" transform="translate(487 -85)">
+      <g id="Grupo_32788-7" data-name="Grupo 32788">
+        <g id="Elipse_186-7" data-name="Elipse 186" transform="translate(276 332)" fill="#fff" stroke="#61d0e1" stroke-width="3">
+          <circle cx="56" cy="56" r="56" stroke="none"/>
+          <circle cx="56" cy="56" r="54.5" fill="none"/>
+        </g>
+        <path id="Icon_awesome-filter" data-name="Icon awesome-filter" d="M42.727,0H2.1A2.1,2.1,0,0,0,.618,3.587l16.193,16.2V37.825a2.1,2.1,0,0,0,.9,1.722l7,4.9a2.1,2.1,0,0,0,3.306-1.722V19.783l16.194-16.2A2.1,2.1,0,0,0,42.727,0Z" transform="translate(309.585 365.585)" fill="#61d0e1"/>
+      </g>
+      <text id="Reorganização_DE_Assuntos_de_granularidades_diversas_PARA_Teses_de_estudo_com_clareza_de_retorno" data-name="Reorganização DE “Assuntos de granularidades diversas” PARA “Teses de estudo” com clareza de retorno" transform="translate(243 461)" fill="#727272" font-size="16" font-family="OpenSans, Open Sans"><tspan x="-66.938" y="17">Reorganização DE </tspan><tspan x="-48.258" y="37">“Assuntos de </tspan><tspan x="-56.238" y="57">granularidades </tspan><tspan x="-81.449" y="77">diversas” PARA “Teses </tspan><tspan x="-86.508" y="97">de estudo” com clareza </tspan><tspan x="-39.887" y="117">de retorno</tspan></text>
+    </g>
+    <g id="Grupo_32792-2" data-name="Grupo 32792" transform="translate(942 -85)">
+      <g id="Grupo_32788-8" data-name="Grupo 32788">
+        <g id="Elipse_186-8" data-name="Elipse 186" transform="translate(276 332)" fill="#fff" stroke="#61d0e1" stroke-width="3">
+          <circle cx="56" cy="56" r="56" stroke="none"/>
+          <circle cx="56" cy="56" r="54.5" fill="none"/>
+        </g>
+        <path id="Icon_material-center-focus-strong" data-name="Icon material-center-focus-strong" d="M25.278,16.043a9.235,9.235,0,1,0,9.235,9.235A9.232,9.232,0,0,0,25.278,16.043ZM9.117,32.2H4.5v9.235a4.631,4.631,0,0,0,4.617,4.617h9.235V41.439H9.117Zm0-23.087h9.235V4.5H9.117A4.631,4.631,0,0,0,4.5,9.117v9.235H9.117ZM41.439,4.5H32.2V9.117h9.235v9.235h4.617V9.117A4.631,4.631,0,0,0,41.439,4.5Zm0,36.939H32.2v4.617h9.235a4.631,4.631,0,0,0,4.617-4.617V32.2H41.439Z" transform="translate(306.721 362.722)" fill="#61d0e1"/>
+      </g>
+      <text id="Direcionamento_do_melhor_caminho_para_iniciar_os_estudos_utilizando_todo_o_potencial_de_entrega" data-name="Direcionamento do melhor caminho para iniciar os estudos utilizando todo o potencial de entrega" transform="translate(243 461)" fill="#727272" font-size="16" font-family="OpenSans, Open Sans"><tspan x="-71.941" y="17">Direcionamento do </tspan><tspan x="-80.559" y="37">melhor caminho para </tspan><tspan x="-64.898" y="57">iniciar os estudos </tspan><tspan x="-63.02" y="77">utilizando todo o </tspan><tspan x="-76.617" y="97">potencial de entrega</tspan></text>
+    </g>
+    <g id="Grupo_32794-2" data-name="Grupo 32794" transform="translate(1169 -85)">
+      <g id="Grupo_32788-9" data-name="Grupo 32788">
+        <g id="Elipse_186-9" data-name="Elipse 186" transform="translate(276 332)" fill="#fff" stroke="#61d0e1" stroke-width="3">
+          <circle cx="56" cy="56" r="56" stroke="none"/>
+          <circle cx="56" cy="56" r="54.5" fill="none"/>
+        </g>
+        <path id="Icon_ionic-md-desktop" data-name="Icon ionic-md-desktop" d="M38.3,2.25H6.045A3.806,3.806,0,0,0,2.25,6.045V31.186A3.806,3.806,0,0,0,6.045,34.98H18.378L14.583,39.25V42.1H29.762V39.25L25.968,34.98H38.3A3.806,3.806,0,0,0,42.1,31.186V6.045A3.806,3.806,0,0,0,38.3,2.25Zm0,25.615H6.045V6.045H38.3v21.82Z" transform="translate(309.827 365.827)" fill="#61d0e1"/>
+      </g>
+      <text id="Centralização_das_informações_e_divulgação_da_Operação_DTO" data-name="Centralização das informações e divulgação da Operação DTO" transform="translate(243 461)" fill="#727272" font-size="16" font-family="OpenSans, Open Sans"><tspan x="-65.559" y="17">Centralização das </tspan><tspan x="-53.145" y="37">informações e </tspan><tspan x="-51.219" y="57">divulgação da </tspan><tspan x="-54.992" y="77">Operação DTO</tspan></text>
+    </g>
+    <g id="Grupo_32793" data-name="Grupo 32793" transform="translate(714 -85)">
+      <g id="Grupo_32788-10" data-name="Grupo 32788">
+        <g id="Elipse_186-10" data-name="Elipse 186" transform="translate(276 332)" fill="#fff" stroke="#61d0e1" stroke-width="3">
+          <circle cx="56" cy="56" r="56" stroke="none"/>
+          <circle cx="56" cy="56" r="54.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Implantação_de_novo_formato_de_priorização_dos_estudos._DE_decisão_individual_PARA_decisão_colaborativa" data-name="Implantação de novo formato de priorização dos estudos. DE decisão individual PARA decisão colaborativa" transform="translate(243 461)" fill="#727272" font-size="16" font-family="OpenSans, Open Sans"><tspan x="-78.449" y="17">Implantação de novo </tspan><tspan x="-85.496" y="37">formato de priorização </tspan><tspan x="-59.707" y="57">dos estudos. DE </tspan><tspan x="-88.539" y="77">decisão individual PARA </tspan><tspan x="-76.266" y="97">decisão colaborativa</tspan></text>
+      <path id="Icon_awesome-heart" data-name="Icon awesome-heart" d="M42.254,5.047C37.245.779,29.8,1.547,25.2,6.291L29.921-7.531a16.916,16.916,0,0,0-6.513-1.544,20.17,20.17,0,0,0-6.9,1.544L21.6,6.291C17.009,1.547,9.551.779,4.543,5.047a13.124,13.124,0,0,0-.9,19L21.323,42.311a2.865,2.865,0,0,0,4.14,0L43.149,24.049a13.116,13.116,0,0,0-.9-19Z" transform="translate(355.397 404.998) rotate(180)" fill="#61d0e1"/>
+    </g>
+    <text id="Ciclo_2" data-name="Ciclo 2" transform="translate(224 312)" fill="#fff" font-size="32" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="34">Ciclo 2</tspan></text>
+    <text id="Construção_da_Visão_de_Portfólio_BVP" data-name="Construção da Visão de Portfólio BVP" transform="translate(224 363)" fill="#061d4a" font-size="22" font-family="Roboto-Regular, Roboto"><tspan x="0" y="23">Construção da </tspan><tspan x="0" y="47">Visão de Portfólio </tspan><tspan x="0" y="71">BVP</tspan></text>
+  </g>
+</svg>

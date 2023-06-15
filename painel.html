@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
+        <title>DTO - Digital Transformation Office</title>
+        <link rel="stylesheet" href="css/design.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500&display=swap" rel="stylesheet">
+            
+        <link rel="shortcut icon" href="img/favicon/favicon.ico">
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+        <script src="js/geral.js"></script>
+        <script src="js/painel.js"></script>
+    </head>
+<body class="page page-painel">
+    <div id="sidebar">
+        <div class="load-logo"><!-- include via js --></div>
+        <div class="load-menu"><!-- include via js --></div>
+    </div>
+    <div id="content">
+        
+        <h2 class="titlepage">Painel de Gestão</h2>
+        <p>Abaixo estamos apresentando alguns dados derivados da portfólio unificado. Caso queira consultar todas as visões, acesse a <a href="https://lookerstudio.google.com/reporting/8316ecdf-d753-462e-b45e-1dfb74bc6423/page/p_4jlxdp985c?s=qEma3tK8rC0" title="DTO"></a>Dashboard no looker.</p>
+        <p class="control">Visualizar em: <span class="click" id="click-slide">Modo Slide</span></p>
+        
+        <div class="cards">
+            <div class="card card01">
+                <h4>Assuntos em Backlog</h4>
+                <p class="big" id="table-count"></p>
+                <p>Conisderando discovery e delivery</p>
+            </div>
+
+            <div class="card card02">
+                <h4>Projetos de CX</h4>
+                <p class="big" id="table-countprojcx"></p>
+                <p id="table-countprojcx-porcento"></p>
+            </div>
+
+            <div class="card card03">
+                <h4>Assuntos priorizadas</h4>
+                <p class="big" id="table-countprojcxpriorizado">0</p>
+                <p><strong>Teses de estudo</strong> priorizadas no DTO Poker</p>
+            </div>
+
+            <div class="card card04">
+                <h4>Assuntos de CX em andamento</h4>
+                <p class="big" id="table-countprojemandamento"></p>
+                <p>Total de projetos de CX em andamento</p>
+            </div>
+
+            <div class="card card05">
+                <h4>Assuntos de CX por demandante</h4>
+                <select id="demandantes" name="nmdemandantes">
+                </select>
+                <p id="countdemandante" class="big">-</p>
+                <p>Em backlog ou em andamento</p>
+            </div>
+
+            <div class="card card06">
+                <h4>Assuntos de CX por tipo</h4>
+                <select id="tiposdemanda" name="nmtiposdemanda">
+                </select>
+                <p id="counttipos" class="big">-</p>
+                <p>Em backlog ou em andamento</p>
+            </div>
+
+            <div class="card card07">
+                <h4>Assuntos de CX por produto</h4>
+                <ul class="list">
+                    <li>Vida: <strong id="tabela-countprojvida"></strong> <span class="tabela-bar" id="tabela-countprojvida-bar"></span></li>
+                    <li>Prev: <strong id="tabela-countprojprev"></strong> <span class="tabela-bar" id="tabela-countprojprev-bar"></span></li>
+                    <li>Prestamista: <strong id="tabela-countprojprestamista"></strong> <span class="tabela-bar" id="tabela-countprojprestamista-bar"></span></li>
+                    <li>Vida e Prev: <strong id="tabela-countprojvidaprev"></strong> <span class="tabela-bar" id="tabela-countprojvidaprev-bar"></span></li>
+                    <li>Null: <strong id="tabela-countprojpvazio"></strong> <span class="tabela-bar" id="tabela-countprojpvazio-bar"></span></li>
+                </ul>
+            </div>
+
+            <div class="card card08">
+                <h4 style="color: #efefef">Em desenvolvimento</h4>
+            </div>
+
+            <div class="card card09">
+                <h4 style="color: #efefef">Em desenvolvimento</h4>
+            </div>
+
+        </div>
+    </div>
+
+    <div id="slideshow">
+
+        <h2 class="slide-title">DTO - Digital Transformation Officer <div class="fechar-slide">X</div></h2>
+
+        <div class="slide" id="slide01">
+        </div>
+        <div class="slide" id="slide02">
+        </div>
+        <div class="slide" id="slide03">
+        </div>
+        <div class="slide" id="slide04">
+        </div>
+        <div class="slide" id="slide05">
+            POR DEMANDANTE
+        </div>
+        <div class="slide" id="slide06">
+            POR TIPO
+        </div>
+    </div>
+</body>
+</html>

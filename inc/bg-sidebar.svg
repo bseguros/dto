@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="303" height="246" viewBox="0 0 303 246">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_8" data-name="Retângulo 8" width="303" height="246" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_de_máscara_2" data-name="Grupo de máscara 2" clip-path="url(#clip-path)">
+    <path id="Polígono_1" data-name="Polígono 1" d="M83.5,0,167,134H0Z" transform="translate(170.5 167) rotate(-90)" fill="#fff" opacity="0.173"/>
+    <path id="Polígono_2" data-name="Polígono 2" d="M102,0,204,279H0Z" transform="translate(25.5 239) rotate(-90)" fill="#fff" opacity="0.042"/>
+    <path id="Polígono_3" data-name="Polígono 3" d="M142.5,0,285,389H0Z" transform="translate(355 -125) rotate(90)" fill="#fff" opacity="0.107"/>
+  </g>
+</svg>

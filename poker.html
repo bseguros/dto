@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
+        <title>DTO - Digital Transformation Office</title>
+        <link rel="stylesheet" href="css/design.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500&display=swap" rel="stylesheet">
+            
+        <link rel="shortcut icon" href="img/favicon/favicon.ico">
+                
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+        <script src="js/geral.js"></script>
+    </head>
+<body class="page page-poker">
+    <div id="sidebar">
+        <div class="load-logo"><!-- include via js --></div>
+        <div class="load-menu"><!-- include via js --></div>
+    </div>
+    <div id="content">
+        <h2 class="titlepage">DTO Poker</h2>
+        <p  class="maxwd-700">DTO Poker é o formato de priorização da DTO para estudos que demandam Tese de Investimento. O game traz uma versão modificada do planning poker adicionando novos critérios de pontuação, porém, mantém sua essência quando da construção colaborativa e consensual de priorização.</p>
+
+        <h3>Como joga?</h3>
+        
+        <object data="inc/poker.svg" style="max-width:800px; width: 100%"></object>
+
+        <h3>Perguntas frequentes (FAQ)</h3>
+        <div class="perguntas">
+            <div class="pergunta">
+                <h4>O que é uma tese?</h4>
+                <p>(Este conteúdo está em revisão) A tese é um assunto que trás um impacto significato à BVP. Ela pode ser um conjunto de demandas menores e que se conectam, como também, um assunto que vai precisar de mais esforço, estudo e dedicação</p>
+            </div>
+
+            <div class="pergunta">
+                <h4>Ainda continuaremos tendo pedidos menores (fora de tese)?</h4>
+                <p>(Este conteúdo está em revisão) Sim, os assuntos de menor impacto ou menor esforço para estudo continuarão acontecendo, mas serão direcionados às células de forma mais direta (com menor interação da DTO)</p>
+            </div>
+
+            <div class="pergunta">
+                <h4>Quando eu for elaborar minha tese, devo me atentar a quais pontos?</h4>
+                <p>Você como gestor tem toda autonomia para trazer os melhores argumentos, no entanto, entendemos que seja uma boa prática expor pontos que se conectam com os critérios de priorização, quais sejam: <br/><br/>
+                  <strong>Regulatório; 
+                  Conexão com estratégia; 
+                  Impacto na experiência do cliente/corretor; 
+                  Retorno financeiro; 
+                  Melhoria na eficiência da operação; 
+                  Complexidade</strong>
+                </p>
+            </div>
+
+            <div class="pergunta">
+                <h4>Como uma tesa é enviada?</h4>
+                <p>Atualmente estamos recebendo as teses por e-mail (bruna.mantovani@bradescoseguros.com.br)</p>
+            </div>
+
+            <div class="pergunta">
+              <h4>Como as teses são priorizadas?</h4>
+              <p>Buscamos manter o conceito de fila, alçando as teses que chegaram primeiro para serem defendidas primeiro. No entanto, para garantir o envolvimento de diversas áreas por dinâmica, para que nossa priorização seja funcional, podemos mover algumas teses para outras dinâmicas garantindo heterogeneidade.</p>
+          </div>
+
+          <div class="pergunta">
+            <h4>Terei visibilidade das teses dos demais gestores antes do dinâmica?</h4>
+            <p>(Este conteúdo está em revisão) Sim, as teses da dinâmica atual estarão em um mural virtual e poderão ser visualizadas por todos em: URL</p>
+        </div>
+
+        <div class="pergunta">
+          <h4>Como é realizada a votação?</h4>
+          <p>Uma tese é indicada como a que está sendo jogada no momento. Os critérios são votados: <br />
+            O critério de votação é exposto, uma enque aparece no teams e todos votam. Assim que tivermos uma opção mais votada, passamos para um novo critério até que terminemos todos os 5 critérios</p>
+      </div>
+
+      <div class="pergunta">
+        <h4>Ao votarmos, vejo que houve uma avaliação muito errada para um dos critérios, como proceder?</h4>
+        <p>Entendemos que a opção mais votada (independente da maioria) vencerá naquele critério em pauta, porém, em caso de discrepância o gestor pode argumentar com seus colegas para tentar influenciar no voto</p>
+      </div>
+
+      <div class="pergunta">
+        <h4>Ao final da votação o que acontece?</h4>
+        <p>Nosso time de dados irá calcular o SCORE e adicionar à tese</p>
+      </div>
+
+      <div class="pergunta">
+        <h4>Como é calculado o score?</h4>
+        <p>(Este conteúdo ainda não foi escrito)</p>
+      </div>
+
+      <div class="pergunta">
+        <h4>Depois que o score é calculado, o que acontece?</h4>
+        <p>(Este conteúdo está em revisão) Iremos disponibilizar a lista de priorização dos estudos aos gestores. Os estudos serão tocados preferencialmente seguindo a lista</p>
+      </div>
+
+      <div class="pergunta">
+        <h4>Meu estudo ficou muito abaixo na lista de priorização, isso quer dizer que não será feito?</h4>
+        <p>De forma alguma. Os estudos que ficaram mais para baixo serão puxados logo em seguida, como uma fila.</p>
+      </div>
+
+      <div class="pergunta">
+        <h4>Penso que os critérios usados não são os melhores</h4>
+        <p>Entendemos que podemos melhorar nossa dinâmica e métodos de priorização. Queremos aprender com o processo e melhorar a cada momento para entregarmos com maior qualidade e mais rápido</p>
+      </div>
+
+      <div class="pergunta">
+        <h4>Com os estudos serão conduzidos?</h4>
+        <p>(Este conteúdo ainda não foi escrito)</p>
+      </div>
+      
+      <div class="pergunta">
+        <h4>Quem vai conduzir o estudo?</h4>
+        <p>(Este conteúdo ainda não foi escrito)</p>
+      </div>
+
+      <div class="pergunta">
+        <h4>Quando o estudo está pronto, o que acontece?</h4>
+        <p>(Este conteúdo ainda não foi escrito)</p>
+      </div>
+
+      <div class="pergunta">
+        <h4>A célula identificou que o estudo precisa de mais detalhes, o que acontece neste momento?</h4>
+        <p>(Este conteúdo ainda não foi escrito)</p>
+      </div>
+
+      <div class="pergunta">
+        <h4>O estudo é a garantia de que será desenvolvido?</h4>
+        <p>Não, alguns impedimentos podem fazer com que o estudo não evolua. Geralmente o próprio estudo ajuda na identificação desses problemas.</p>
+      </div>
+
+      <div class="pergunta">
+        <h4>Os estudos que não entraram em delivery, o que acontece?</h4>
+        <p>Nossa intenção é ter construído um backlog de estudos, garantindo a saúde de entregas de cada célula. Os estudos que não entraram para delivery ficaram na fila, aguardando</p>
+      </div>
+
+      <div class="pergunta">
+        <h4>É possível que nenhuma tese minha seja priorizada?</h4>
+        <p>(Este conteúdo ainda não foi escrito)</p>
+      </div>
+
+      <div class="pergunta">
+        <h4>Corro o risco de ficar sem backlog para minha célula na próxima PI?</h4>
+        <p>(Este conteúdo ainda não foi escrito)</p>
+      </div>
+
+      <div class="pergunta">
+        <h4>Na parte de esforço, só a minha percepção conta?</h4>
+        <p>(Este conteúdo ainda não foi escrito)</p>
+      </div>
+
+      <div class="pergunta">
+        <h4>E se eu não tiver tempo de participar das outras votações?</h4>
+        <p>(Este conteúdo ainda não foi escrito)</p>
+      </div>
+
+      <div class="pergunta">
+        <h4>Eu preciso defender ou posso enviar um representante?</h4>
+        <p>(Este conteúdo ainda não foi escrito)</p>
+      </div>
+
+        </div>
+
+        <div class="links">
+          <h4>Links relacionados:</h4>
+          <ul>
+            <li><a href="arq/Modelo para Tese de Investimento - BVP (v2).pptx" title="Modelo tese de investimento (v2)">Modelo "one page" - tese de investimento (v2)</a></li>
+            <li><a href="https://miro.com/app/board/uXjVMAbQ3Zg=/?moveToWidget=3458764556740990447&cot=14" title="Mural para teses de investimento">[Sem link] Mural com teses de investimento para a próxima dinâmnica</a></li>
+          </ul>
+        </div>
+        
+    </div>
+
+</body>
+</html>
