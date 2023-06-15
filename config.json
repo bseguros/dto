@@ -1,8 +1,8 @@
 {
     "title"     : "DTO",
     "author"    : "CI&T - João Paulo Fechine",
-    "email"    : "jpfechine@ciandt.com",
+    "email"     : "jpfechine@ciandt.com",
     "version"   : "1.00",
-    "baseurl"   : "https://fechine.github.io/dto",
-    "csvdate" : "06/06/2023"
+    "baseurl"   : "https://bseguros.github.io/dto/",
+    "csvdate"   : "06/06/2023"
 }

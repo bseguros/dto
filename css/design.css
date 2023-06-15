@@ -150,6 +150,10 @@ body {
             border-bottom: 1px solid transparent;
             transition: 0.5s;
         }
+        .main-menu li a svg.bi-key-fill {
+            transform: rotate(90deg);
+            margin: 3px 0 -3px 0;
+        }
         .main-menu li a.mn-pedido {
             margin-top: 30px;
             color: var(--light-blue);
